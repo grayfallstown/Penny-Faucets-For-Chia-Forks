@@ -1,1 +1,1 @@
-http://penny-faucets-for-chia-forks.net/
+https://penny-faucets-for-chia-forks.net/
