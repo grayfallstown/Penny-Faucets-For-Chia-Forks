@@ -1,1 +1,1 @@
-https://grayfallstown.github.io/Penny-Faucets-For-Chia-Forks/
+http://penny-faucets-for-chia-forks.net/
