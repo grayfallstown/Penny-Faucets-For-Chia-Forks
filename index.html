@@ -15,7 +15,16 @@
 			zoom: 80%;
 		}
 		.feature img {
-			height: 80px
+			height: 80px;
+		}
+		.feature.feature-sponsor img {
+			height: 120px;
+		}
+		.feature {
+			margin-bottom: 120px;
+		}
+		.section-margin-bottom {
+			margin-bottom: 120px;
 		}
 		.pricing-inner.section-inner, .section-inner {
 			padding: 0;
@@ -44,9 +53,9 @@
                     <div class="hero-inner">
 						<div class="hero-copy">
 	                        <h1 class="hero-title mt-0">Penny Faucet For Chia Forks</h1>
-	                        <p class="hero-paragraph">To set you up on the pooling protocol, transaction fees or whatever you need coins for!.</p>
+	                        <p class="hero-paragraph">To set you up on the pooling protocol, transaction fees or whatever you need coins for!</p>
 	                        <div class="hero-cta">
-							<a class="button button-primary" href="#">Comming online soon!</a>
+							<a class="button button-primary" href="">Comming July 16. after 6pm UTC</a>
 							</div>
 						</div>
 						<div class="hero-figure anime-element">
@@ -68,19 +77,45 @@
                 </div>
             </section>
 
-            <section class="features section">
+            <section class="features section" style="margin-bottom: 120px">
+                <div class="container">
+					<h2 class="section-title mt-0" style="text-align: center">Sponsored by:</h2>
+				</div>
                 <div class="container">
 					<div class="features-inner section-inner has-bottom-divider">
                         <div class="features-wrap">
-                            <div class="feature text-center is-revealing">
+							<div class="feature feature-sponsor text-center is-revealing">
+								<div class="feature-inner">
+									<a href="https://hddcoin.org/">
+										<div class="feature-icon">
+											<img src="dist/images/hddcoin.png" alt="Feature 01">
+										</div>
+										<h4 class="feature-title mt-24">HDDcoin</h4>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			
+			
+            <section class="features section section-margin-bottom">
+                <div class="container">
+					<h2 class="section-title mt-0" style="text-align: center">Forks supported by the faucet:</h2>
+				</div>
+                <div class="container">
+					<div class="features-inner section-inner has-bottom-divider">
+                        <div class="features-wrap">
+                            <div class="feature text-center">
                                 <div class="feature-inner">
                                     <div class="feature-icon">
-										<img src="dist/images/flax.svg" alt="Feature 01" style="margin-left:66px">
+										<img src="dist/images/hddcoin.png" alt="Feature 01">
                                     </div>
-                                    <h4 class="feature-title mt-24">Flax</h4>
+                                    <h4 class="feature-title mt-24">HDDcoin</h4>
                                 </div>
                             </div>
-							<div class="feature text-center is-revealing">
+							<div class="feature text-center">
                                 <div class="feature-inner">
                                     <div class="feature-icon">
 										<img src="dist/images/goji.svg" alt="Feature 02">
@@ -88,7 +123,7 @@
                                     <h4 class="feature-title mt-24">Goji</h4>
                                 </div>
                             </div>
-                            <div class="feature text-center is-revealing">
+                            <div class="feature text-center">
                                 <div class="feature-inner">
                                     <div class="feature-icon">
 										<img src="dist/images/flora.svg" alt="Feature 03">
@@ -96,15 +131,15 @@
                                     <h4 class="feature-title mt-24">Flora</h4>
                                 </div>
                             </div>
-                            <div class="feature text-center is-revealing">
+                            <div class="feature text-center">
                                 <div class="feature-inner">
                                     <div class="feature-icon">
-										<img src="dist/images/hddcoin.png" alt="Feature 04">
+										<img src="dist/images/flax.svg" alt="Feature 04" style="margin-left:66px">
                                     </div>
-                                    <h4 class="feature-title mt-24">HDDcoin</h4>
+                                    <h4 class="feature-title mt-24">Flax</h4>
                                 </div>
                             </div>
-							<div class="feature text-center is-revealing">
+							<div class="feature text-center">
                                 <div class="feature-inner">
                                     <div class="feature-icon">
 										<img src="dist/images/avocado.svg" alt="Feature 05">
@@ -112,7 +147,7 @@
                                     <h4 class="feature-title mt-24">Avocado</h4>
                                 </div>
                             </div>
-                            <div class="feature text-center is-revealing">
+                            <div class="feature text-center">
                                 <div class="feature-inner">
                                     <div class="feature-icon">
 										<img src="dist/images/chaingreen.svg" alt="Feature 06">
@@ -122,7 +157,7 @@
                             </div>
 							<!--
 							no coins yet :(
-                            <div class="feature text-center is-revealing">
+                            <div class="feature text-center">
                                 <div class="feature-inner">
                                     <div class="feature-icon">
 										<img src="dist/images/chiadoge.svg" alt="Feature 06">
@@ -139,11 +174,14 @@
             </section>
 
             <section class="pricing section">
-                <div class="container-sm">
+                <div class="container">
                     <div class="pricing-inner section-inner">
                         <div class="pricing-header text-center">
                             <h2 class="section-title mt-0">And many more!</h2>
-                            <p class="section-paragraph mb-0">If the coin you created is missing, <a href="https://github.com/grayfallstown/Penny-Faucets-For-Chia-Forks/issues">hit me up!</a></p>
+                            <p class="section-paragraph mb-0">If the coin you created is missing,
+							<a href="https://github.com/grayfallstown/Penny-Faucets-For-Chia-Forks/issues">hit me upon github</a>
+							or dm me on discord @ grayfallstown#8466
+							</p>
                         </div>
                     </div>
                 </div>
