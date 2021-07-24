@@ -8,6 +8,7 @@
             var h2 = document.createElement('h2');
             h2.innerText = currencyID;
             document.body.appendChild(h2);
+
             var canvas = document.createElement('canvas');
             canvas .id = currencyID;
             canvas.classList = ['canvas'];
@@ -34,10 +35,13 @@
                 chartData,
                 options: {}
             };
-            var myChart = new Chart(
-                document.getElementById(currencyID),
-                config
-            );
+
+            setTimeout(() => {
+                var myChart = new Chart(
+                    document.getElementById(currencyID),
+                    config
+                );
+            }, 10);
         }
 
         function addCharts(json) {
