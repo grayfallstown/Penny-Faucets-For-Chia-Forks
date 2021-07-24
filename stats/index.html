@@ -35,13 +35,18 @@
                 chartData,
                 options: {}
             };
+            var ctx = document.getElementById(currencyID).getContext("2d");
+            Chart.Line(ctx, { data: chartData });
 
+            /*
             setTimeout(() => {
+
                 var myChart = new Chart(
                     document.getElementById(currencyID),
                     config
                 );
             }, 10);
+            */
         }
 
         function addCharts(json) {
