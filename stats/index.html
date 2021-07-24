@@ -1,8 +1,17 @@
 <!html>
 <head>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            max-width: 800px;
+            background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(17,17,17,1) 100%);
+            color: #ccc;
+            max-width: 1200px;
+            font-family: sans-serif;
+        }
+    </style>
 </head>
-<body style="max-width: 1200px">
+<body>
     <script>
         function addChart(currencyID, data) {
             var h2 = document.createElement('h2');
