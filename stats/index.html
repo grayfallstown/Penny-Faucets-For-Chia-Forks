@@ -5,8 +5,13 @@
 <body>
     <script>
         function addChart(currencyID, data) {
-            document.body.appendChild('<h2>' + currencyID + '</h2>');
-            document.body.appendChild('<div id="' + currencyID + '" class="chart"/>');
+            var h2 = document.createElement('h2');
+            h2.innerText = currencyID;
+            document.body.appendChild(h2);
+            var div = document.createElement('div');
+            div.id = currencyID;
+            div.classList = ['chart'];
+            document.body.appendChild(div);
 
             const labels = Object.keys(data);
             const chartData = {
