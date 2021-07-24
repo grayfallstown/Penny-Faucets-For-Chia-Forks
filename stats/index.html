@@ -14,7 +14,7 @@
             canvas.classList = ['canvas'];
             document.body.appendChild(canvas);
 
-            const labels = Object.keys(data);
+            const labels = Object.keys(data).map((d) => new Date(d).toLocaleDateString("en-US"));
             const chartData = {
                 labels: labels,
                 datasets: [{
