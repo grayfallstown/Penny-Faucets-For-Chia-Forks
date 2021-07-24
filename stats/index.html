@@ -27,7 +27,7 @@
                     pointStrokeColor: "#fff",
                     pointHighlightFill: "#fff",
                     pointHighlightStroke: "rgba(220,220,220,1)",
-                    data: Object.values(data),
+                    data: Object.keys(data).map((key) => data[key]),
                 }]
             };
             const config = {
