@@ -8,10 +8,10 @@
             var h2 = document.createElement('h2');
             h2.innerText = currencyID;
             document.body.appendChild(h2);
-            var div = document.createElement('div');
-            div.id = currencyID;
-            div.classList = ['chart'];
-            document.body.appendChild(div);
+            var canvas = document.createElement('canvas');
+            canvas .id = currencyID;
+            canvas.classList = ['canvas'];
+            document.body.appendChild(canvas);
 
             const labels = Object.keys(data);
             const chartData = {
