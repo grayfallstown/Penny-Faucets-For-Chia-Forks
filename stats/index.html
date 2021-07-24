@@ -38,7 +38,6 @@
             var ctx = document.getElementById(currencyID).getContext("2d");
             Chart.Line(ctx, { data: chartData });
 
-            /*
             setTimeout(() => {
 
                 var myChart = new Chart(
@@ -46,12 +45,13 @@
                     config
                 );
             }, 10);
-            */
         }
 
         function addCharts(json) {
-            for (const [currencyId, data] of Object.entries(json))
-                addChart(currencyId, data);
+            var keys = Object.keys(json);
+            keys.sort();
+            for (const currencyId in keys)
+                addChart(currencyId, json[currencyId]);
         }
 
         fetch("./targets-by-currency-by-date.json")
