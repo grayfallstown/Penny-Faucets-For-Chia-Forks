@@ -1,1115 +1,57 @@
 {
-  "Apple-APPLE": [
-    {
-      "UUID": "44de7254-bf0a-49ee-bb3d-5080879d2695",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Apple-APPLE",
-      "IP": "178.76.249.142",
-      "Port": 26666
-    },
-    {
-      "UUID": "de322cfe-5b37-40cf-9ed1-110ecc769722",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Apple-APPLE",
-      "IP": "106.104.194.55",
-      "Port": 26666
-    },
-    {
-      "UUID": "350c985d-2677-406b-ba99-e7dc670d1649",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Apple-APPLE",
-      "IP": "81.37.198.208",
-      "Port": 26666
-    },
-    {
-      "UUID": "08a28783-0dbe-438f-a9e2-d7d49b2417a3",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Apple-APPLE",
-      "IP": "109.61.158.65",
-      "Port": 26666
-    },
-    {
-      "UUID": "9a55cc52-3a11-48a1-b6a2-40dee515ddcc",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Apple-APPLE",
-      "IP": "66.51.101.106",
-      "Port": 26666
-    },
-    {
-      "UUID": "88de919c-6a74-42e9-a6fa-c0346d04a6e7",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Apple-APPLE",
-      "IP": "136.33.235.153",
-      "Port": 26666
-    },
-    {
-      "UUID": "2db27335-bddd-49a7-8c0b-ae5c33869fc3",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Apple-APPLE",
-      "IP": "99.250.170.201",
-      "Port": 26666
-    },
-    {
-      "UUID": "e653dca6-faad-4360-9f07-317c51fe4d62",
-      "CreatedAt": "2021-08-01T09:44:42",
-      "CurrencyID": "Apple-APPLE",
-      "IP": "128.74.103.118",
-      "Port": 26666
-    }
-  ],
-  "Kale-XKA": [
-    {
-      "UUID": "29ea3bc9-6a07-44e1-b42f-93f92cfa35aa",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Kale-XKA",
-      "IP": "223.134.74.79",
-      "Port": 6333
-    },
-    {
-      "UUID": "367b4a9d-3096-4284-b176-e4086176edef",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Kale-XKA",
-      "IP": "24.251.245.142",
-      "Port": 6333
-    },
-    {
-      "UUID": "655b4df8-3e79-484e-b877-1afbd44bde9f",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Kale-XKA",
-      "IP": "89.134.66.131",
-      "Port": 6333
-    },
-    {
-      "UUID": "a39f7830-2df0-46af-b3fb-bdc550bc72b4",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Kale-XKA",
-      "IP": "58.7.217.137",
-      "Port": 6333
-    },
-    {
-      "UUID": "37865c45-0e8f-46da-852b-15498028e5a9",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Kale-XKA",
-      "IP": "2.94.43.74",
-      "Port": 6333
-    },
-    {
-      "UUID": "05560e57-4a8c-41f2-a647-6f34fe2613d7",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Kale-XKA",
-      "IP": "46.8.174.80",
-      "Port": 6333
-    },
-    {
-      "UUID": "dc393294-4862-4b0f-aca3-41abb7c5283e",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Kale-XKA",
-      "IP": "86.154.155.62",
-      "Port": 6333
-    },
-    {
-      "UUID": "9d4b53ec-02a0-44a7-9394-84de12de6cf0",
-      "CreatedAt": "2021-08-01T09:44:42",
-      "CurrencyID": "Kale-XKA",
-      "IP": "181.133.52.87",
-      "Port": 6333
-    },
-    {
-      "UUID": "d5349682-2044-4b1c-8311-a66d7e9b7021",
-      "CreatedAt": "2021-08-01T07:41:39",
-      "CurrencyID": "Kale-XKA",
-      "IP": "79.116.4.112",
-      "Port": 6333
-    },
-    {
-      "UUID": "c1af12c5-8d60-483d-994b-63390ef54b16",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Kale-XKA",
-      "IP": "79.116.6.171",
-      "Port": 6333
-    },
-    {
-      "UUID": "b51083ca-53b1-49e0-ac3e-b25c60e42e5f",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Kale-XKA",
-      "IP": "184.82.225.148",
-      "Port": 6333
-    },
-    {
-      "UUID": "c404f049-0b4f-4c22-ab5f-a2fbb2ad9cc2",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Kale-XKA",
-      "IP": "171.244.185.191",
-      "Port": 6333
-    },
-    {
-      "UUID": "9a3d6ca7-8b6f-41d7-bf05-64441c9aee60",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Kale-XKA",
-      "IP": "87.27.185.65",
-      "Port": 6333
-    },
-    {
-      "UUID": "601b240f-b221-497a-93d9-328b628069ac",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Kale-XKA",
-      "IP": "71.127.170.108",
-      "Port": 6333
-    },
-    {
-      "UUID": "3bd0bdca-1e4a-422d-9a84-8064b8db3a17",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Kale-XKA",
-      "IP": "76.120.155.174",
-      "Port": 6333
-    },
-    {
-      "UUID": "13eb5168-1e22-4d0f-9415-12e481fe3bd9",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Kale-XKA",
-      "IP": "24.229.22.56",
-      "Port": 6333
-    },
-    {
-      "UUID": "f02d94e0-484d-489d-ae3e-fc70e701398d",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Kale-XKA",
-      "IP": "27.74.243.69",
-      "Port": 6333
-    },
-    {
-      "UUID": "2f7e4064-0f71-4f67-9ac7-d9cd57f920d5",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Kale-XKA",
-      "IP": "85.84.55.21",
-      "Port": 6333
-    },
-    {
-      "UUID": "6e002c5e-1d40-48a1-8cfe-7853b4643404",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Kale-XKA",
-      "IP": "89.233.159.231",
-      "Port": 6333
-    },
-    {
-      "UUID": "e496e9f4-4a32-49c0-b14b-67c4da505c56",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Kale-XKA",
-      "IP": "198.46.210.171",
-      "Port": 6333
-    },
-    {
-      "UUID": "1d47fd4a-308e-4d87-8d1f-ea5f29a7d912",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Kale-XKA",
-      "IP": "8.2.186.52",
-      "Port": 6333
-    },
-    {
-      "UUID": "147c0f0a-948a-4497-9fe2-f0d1ae7735e8",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Kale-XKA",
-      "IP": "172.94.12.146",
-      "Port": 6333
-    },
-    {
-      "UUID": "c1203151-5e0c-4a4b-9c5f-758dadba7485",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Kale-XKA",
-      "IP": "47.186.2.38",
-      "Port": 6333
-    },
-    {
-      "UUID": "33fe0342-e57f-497f-80bb-91320fb55d87",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Kale-XKA",
-      "IP": "86.155.123.253",
-      "Port": 6333
-    }
-  ],
-  "Taco-XTX": [
-    {
-      "UUID": "fbcd9971-5fec-4c95-bbaf-90bc3b30bd60",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Taco-XTX",
-      "IP": "124.121.75.71",
-      "Port": 18620
-    },
-    {
-      "UUID": "d067fa7d-757d-4a62-a2b0-630d1cbff18e",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Taco-XTX",
-      "IP": "91.126.171.132",
-      "Port": 10019
-    },
-    {
-      "UUID": "9e58416a-9325-4c59-b2ac-8c3e9a058672",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Taco-XTX",
-      "IP": "37.79.213.110",
-      "Port": 18620
-    },
-    {
-      "UUID": "cbac4ea9-f504-4f71-8592-8b0b8e5ce45d",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Taco-XTX",
-      "IP": "222.253.42.32",
-      "Port": 18620
-    },
-    {
-      "UUID": "088512f9-6026-4a96-8e53-6bf3e30aa415",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Taco-XTX",
-      "IP": "211.22.218.17",
-      "Port": 18620
-    },
-    {
-      "UUID": "f1bc97c3-c747-4a97-8baa-25145245453f",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Taco-XTX",
-      "IP": "94.63.82.46",
-      "Port": 18620
-    },
-    {
-      "UUID": "eec785fb-6bfa-47fc-9aa5-60097c426b70",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Taco-XTX",
-      "IP": "62.197.209.47",
-      "Port": 18620
-    },
-    {
-      "UUID": "ec1f9a22-8cbd-4741-ae55-1e83981bfe26",
-      "CreatedAt": "2021-08-01T09:44:42",
-      "CurrencyID": "Taco-XTX",
-      "IP": "106.104.194.55",
-      "Port": 18620
-    },
-    {
-      "UUID": "1ed834bf-305e-407e-833d-d9eceae05142",
-      "CreatedAt": "2021-08-01T07:30:26",
-      "CurrencyID": "Taco-XTX",
-      "IP": "27.32.51.169",
-      "Port": 18620
-    },
-    {
-      "UUID": "d8251e11-1444-4e01-b956-051d398856b1",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Taco-XTX",
-      "IP": "86.160.155.91",
-      "Port": 18620
-    },
-    {
-      "UUID": "d5f43abb-bf16-43a3-8de8-2c9c9dae5423",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Taco-XTX",
-      "IP": "86.182.162.201",
-      "Port": 18620
-    },
-    {
-      "UUID": "b103eab1-6f77-4624-8d83-4293f67db902",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Taco-XTX",
-      "IP": "157.90.186.219",
-      "Port": 18620
-    },
-    {
-      "UUID": "b04bf0b8-0ce9-4bb3-bac1-908fb6bb3949",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Taco-XTX",
-      "IP": "173.33.160.226",
-      "Port": 18620
-    },
-    {
-      "UUID": "e13b2dc3-9c0e-4ec6-8cf0-14177f4e755f",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Taco-XTX",
-      "IP": "91.158.116.33",
-      "Port": 18620
-    },
-    {
-      "UUID": "e04bd808-df78-44c4-bde9-53c56f16fd94",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Taco-XTX",
-      "IP": "96.22.32.149",
-      "Port": 18620
-    },
-    {
-      "UUID": "2c538950-efa4-45df-8a5d-81f0848c4bcf",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Taco-XTX",
-      "IP": "37.229.174.83",
-      "Port": 18620
-    },
-    {
-      "UUID": "1cc419ca-9e71-4862-a68c-c25f74d98e2a",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Taco-XTX",
-      "IP": "185.72.72.6",
-      "Port": 18620
-    },
-    {
-      "UUID": "9bb2ad56-2953-436f-acd0-bce2017fc823",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Taco-XTX",
-      "IP": "71.176.77.61",
-      "Port": 18620
-    },
-    {
-      "UUID": "9d559bce-3e51-41f9-8500-ce2cbdf2f957",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Taco-XTX",
-      "IP": "93.51.77.74",
-      "Port": 18620
-    },
-    {
-      "UUID": "3319d983-b8be-4bd9-8a7a-48de9d608ff9",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Taco-XTX",
-      "IP": "58.136.66.204",
-      "Port": 18620
-    },
-    {
-      "UUID": "caa40ba1-a826-47ca-a16d-4364db99632e",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Taco-XTX",
-      "IP": "23.159.160.33",
-      "Port": 18620
-    },
-    {
-      "UUID": "17efb203-4579-46f4-961c-0e2a41a43396",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Taco-XTX",
-      "IP": "86.181.79.154",
-      "Port": 18620
-    },
-    {
-      "UUID": "dc0ff151-673f-425b-a4e0-cabd1eb8b4cb",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Taco-XTX",
-      "IP": "65.21.143.58",
-      "Port": 18620
-    },
-    {
-      "UUID": "538a4d98-ca82-40e1-9eb9-bed807534eb0",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Taco-XTX",
-      "IP": "91.44.212.45",
-      "Port": 18620
-    },
-    {
-      "UUID": "5b5e1618-2caf-4ab6-8d15-91ac11f3eb28",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Taco-XTX",
-      "IP": "213.14.144.248",
-      "Port": 18620
-    }
-  ],
-  "FxxkForkCoin-FFK": [
-    {
-      "UUID": "0345dd44-18ea-45be-8783-e5dcbee12420",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "FxxkForkCoin-FFK",
-      "IP": "116.22.52.178",
-      "Port": 4499
-    },
-    {
-      "UUID": "7ec6eb30-4792-4044-afa0-67c5474ec7bc",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "FxxkForkCoin-FFK",
-      "IP": "118.190.143.231",
-      "Port": 4499
-    },
-    {
-      "UUID": "8785ebee-8c37-4ffe-bb4f-0db28a6060cf",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "FxxkForkCoin-FFK",
-      "IP": "183.88.175.173",
-      "Port": 4499
-    },
-    {
-      "UUID": "b540fc71-9781-4f69-869f-eacd8f7fbfb9",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "FxxkForkCoin-FFK",
-      "IP": "62.197.209.47",
-      "Port": 4499
-    },
-    {
-      "UUID": "e276fb56-aed8-4698-94d3-d00e3fe19331",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "FxxkForkCoin-FFK",
-      "IP": "184.82.147.30",
-      "Port": 4499
-    },
-    {
-      "UUID": "f623bcb5-e957-43c6-a1ff-a0df53ae4caf",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "FxxkForkCoin-FFK",
-      "IP": "82.50.93.7",
-      "Port": 4499
-    },
-    {
-      "UUID": "af5336e3-f435-4913-9414-4ee6b4a2d90e",
-      "CreatedAt": "2021-08-01T09:44:45",
-      "CurrencyID": "FxxkForkCoin-FFK",
-      "IP": "218.110.159.176",
-      "Port": 4499
-    }
-  ],
-  "Seno-XSE": [
-    {
-      "UUID": "602d84eb-f1c3-42e6-a09b-92c6ee3c121c",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Seno-XSE",
-      "IP": "107.129.89.76",
-      "Port": 18444
-    },
-    {
-      "UUID": "75dd85c1-8d47-45cc-b938-d22f90226228",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Seno-XSE",
-      "IP": "84.145.54.219",
-      "Port": 18444
-    },
-    {
-      "UUID": "2c618b9a-b278-4a00-8581-b5ccaa0591f6",
-      "CreatedAt": "2021-08-01T09:44:44",
-      "CurrencyID": "Seno-XSE",
-      "IP": "109.184.219.73",
-      "Port": 18444
-    },
-    {
-      "UUID": "7c6fd739-922d-4120-8d9a-84554ecf7483",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Seno-XSE",
-      "IP": "142.234.80.72",
-      "Port": 18444
-    },
-    {
-      "UUID": "b05fc7bc-0d98-4869-affc-e183cdee35cd",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Seno-XSE",
-      "IP": "85.84.55.21",
-      "Port": 18444
-    },
-    {
-      "UUID": "f11412ac-93d0-4dfb-8373-20dc95798ca4",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Seno-XSE",
-      "IP": "217.21.59.42",
-      "Port": 18444
-    },
-    {
-      "UUID": "54f2ab61-c972-408a-9d35-bb09038daded",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Seno-XSE",
-      "IP": "78.58.112.76",
-      "Port": 18444
-    },
-    {
-      "UUID": "572dd26f-91f9-4f85-ba34-b6a01a86ceff",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Seno-XSE",
-      "IP": "79.101.130.91",
-      "Port": 18444
-    },
-    {
-      "UUID": "cca58a29-ce62-4817-a6ce-fcebfe71c1a3",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Seno-XSE",
-      "IP": "50.5.59.92",
-      "Port": 18444
-    }
-  ],
-  "DogeChia-XDG": [
-    {
-      "UUID": "05c74174-5722-4521-8df1-c9ab1d02d20d",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "DogeChia-XDG",
-      "IP": "89.176.160.239",
-      "Port": 42069
-    },
-    {
-      "UUID": "dc83a084-aa68-4014-8ce0-7c4f8376d5cd",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "DogeChia-XDG",
-      "IP": "199.36.92.130",
-      "Port": 42069
-    },
-    {
-      "UUID": "f0238ebf-5d87-40e9-9caf-d99a3046dd9a",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "DogeChia-XDG",
-      "IP": "90.150.171.11",
-      "Port": 42069
-    },
-    {
-      "UUID": "52a73aac-c2ab-49bb-ab5b-f6f46159f562",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "DogeChia-XDG",
-      "IP": "37.79.213.110",
-      "Port": 42069
-    },
-    {
-      "UUID": "ba9d05d2-0755-4781-803c-bf569ab7118b",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "DogeChia-XDG",
-      "IP": "211.22.218.17",
-      "Port": 42069
-    },
-    {
-      "UUID": "36053e5b-d7ae-44fb-8c44-a09cabc98516",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "DogeChia-XDG",
-      "IP": "45.11.17.97",
-      "Port": 42069
-    },
-    {
-      "UUID": "2c83d0ff-b624-4ee3-af46-4df95d6e43f1",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "DogeChia-XDG",
-      "IP": "181.133.52.87",
-      "Port": 42069
-    },
-    {
-      "UUID": "8f5f5f53-f050-4c60-87bb-8bca03c01abb",
-      "CreatedAt": "2021-08-01T09:44:43",
-      "CurrencyID": "DogeChia-XDG",
-      "IP": "179.105.223.12",
-      "Port": 42069
-    },
-    {
-      "UUID": "03f14f73-07a5-4f49-9c39-4d8cdcb81dd2",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "DogeChia-XDG",
-      "IP": "47.63.73.121",
-      "Port": 42069
-    },
-    {
-      "UUID": "374369fd-65e9-4215-9865-f7d9347ebe48",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "DogeChia-XDG",
-      "IP": "85.240.159.14",
-      "Port": 42069
-    },
-    {
-      "UUID": "535fc4de-4a94-4c44-95c2-f0964650d606",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "DogeChia-XDG",
-      "IP": "195.181.131.246",
-      "Port": 42069
-    },
-    {
-      "UUID": "5e77c753-2c70-4698-b00d-aadca01b5d4e",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "DogeChia-XDG",
-      "IP": "81.107.165.83",
-      "Port": 42069
-    },
-    {
-      "UUID": "6254e9bc-2db7-41af-9b5a-da77f98c58c9",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "DogeChia-XDG",
-      "IP": "93.51.77.74",
-      "Port": 42069
-    },
-    {
-      "UUID": "63c7aaee-a249-4bd9-b11c-01ac33c9066e",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "DogeChia-XDG",
-      "IP": "39.120.60.78",
-      "Port": 42069
-    },
-    {
-      "UUID": "e7c64e59-2fef-40af-9801-b5e0882d01ed",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "DogeChia-XDG",
-      "IP": "181.171.169.190",
-      "Port": 42069
-    },
-    {
-      "UUID": "f58f4977-4716-46fd-beb7-466a8af673e3",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "DogeChia-XDG",
-      "IP": "98.117.251.236",
-      "Port": 42069
-    }
-  ],
-  "ChiaRose-XCR": [
-    {
-      "UUID": "b6f5372e-9725-4c83-b5ea-e84b258acee1",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "ChiaRose-XCR",
-      "IP": "87.175.61.232",
-      "Port": 8520
-    },
-    {
-      "UUID": "c33deda3-8a76-44bb-81b4-83b73b8a9c8b",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "ChiaRose-XCR",
-      "IP": "37.229.174.83",
-      "Port": 8520
-    },
-    {
-      "UUID": "18bbfc0d-9e3d-4adc-bbd7-fd191b03b47e",
-      "CreatedAt": "2021-08-01T09:44:42",
-      "CurrencyID": "ChiaRose-XCR",
-      "IP": "213.248.151.124",
-      "Port": 8520
-    },
-    {
-      "UUID": "006ec17a-09d2-4cad-9537-9b17c0ee627c",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "ChiaRose-XCR",
-      "IP": "123.24.5.72",
-      "Port": 8520
-    },
-    {
-      "UUID": "2adbd334-a80a-41df-87a5-782536cffa1f",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "ChiaRose-XCR",
-      "IP": "203.204.219.69",
-      "Port": 8520
-    },
-    {
-      "UUID": "8ac74a2d-4306-42d1-b144-d2c1230c68ca",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "ChiaRose-XCR",
-      "IP": "94.132.219.254",
-      "Port": 8520
-    },
-    {
-      "UUID": "44a0669c-d1b0-4031-9b12-307796fea13b",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "ChiaRose-XCR",
-      "IP": "87.8.236.220",
-      "Port": 8520
-    },
-    {
-      "UUID": "68cc7d92-57d1-49e6-b941-445a4272f86d",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "ChiaRose-XCR",
-      "IP": "91.34.173.40",
-      "Port": 8520
-    }
-  ],
-  "GreenDoge-GDOG": [
-    {
-      "UUID": "d32a7562-bea8-46fa-bedc-5deccfc5299a",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "GreenDoge-GDOG",
-      "IP": "177.62.223.216",
-      "Port": 6544
-    },
-    {
-      "UUID": "f53026a3-52c5-452e-9c02-06bf5a2ea5ef",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "GreenDoge-GDOG",
-      "IP": "178.119.156.76",
-      "Port": 6544
-    },
-    {
-      "UUID": "d0f95b55-3374-4d54-81c9-cbc1863b4a9f",
-      "CreatedAt": "2021-08-01T09:44:42",
-      "CurrencyID": "GreenDoge-GDOG",
-      "IP": "68.41.40.26",
-      "Port": 6544
-    },
-    {
-      "UUID": "0228ddfc-b305-4d57-8b0a-5b9019244d6d",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "GreenDoge-GDOG",
-      "IP": "99.250.170.201",
-      "Port": 6544
-    },
-    {
-      "UUID": "07095f56-674c-47c4-bec3-c3b8644fac9b",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "GreenDoge-GDOG",
-      "IP": "93.91.157.22",
-      "Port": 6544
-    },
-    {
-      "UUID": "ab175787-58a3-45e9-83ea-afab3bb71df3",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "GreenDoge-GDOG",
-      "IP": "79.168.58.24",
-      "Port": 6544
-    },
-    {
-      "UUID": "2b01dc1f-cc27-4f39-8b12-0d1863019641",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "GreenDoge-GDOG",
-      "IP": "122.116.108.42",
-      "Port": 6544
-    },
-    {
-      "UUID": "30595215-8bd0-4ca1-ace6-82eed6137dc1",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "GreenDoge-GDOG",
-      "IP": "72.76.40.2",
-      "Port": 6544
-    },
-    {
-      "UUID": "3addca61-9f52-402c-b0e1-97deaf07ef1e",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "GreenDoge-GDOG",
-      "IP": "78.34.6.85",
-      "Port": 6544
-    }
-  ],
-  "Goji-XGJ": [
-    {
-      "UUID": "8980aa8d-9103-41ca-a7ba-0cd6ad77cf45",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Goji-XGJ",
-      "IP": "46.24.246.84",
-      "Port": 7444
-    },
-    {
-      "UUID": "1389284e-814a-47f2-9a27-575408a8d330",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Goji-XGJ",
-      "IP": "77.228.123.119",
-      "Port": 7444
-    },
-    {
-      "UUID": "2605abcf-b119-4d03-a277-66823765662e",
-      "CreatedAt": "2021-08-01T09:44:42",
-      "CurrencyID": "Goji-XGJ",
-      "IP": "58.229.108.2",
-      "Port": 7444
-    },
-    {
-      "UUID": "3bb4e4ea-b4fc-4442-995b-ba24ad28e120",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Goji-XGJ",
-      "IP": "42.2.169.222",
-      "Port": 7444
-    },
-    {
-      "UUID": "e1f7dd1c-b678-48cb-b8ac-a6c8fa61ae76",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Goji-XGJ",
-      "IP": "88.3.137.47",
-      "Port": 7444
-    },
-    {
-      "UUID": "ec2a6933-0447-4b2e-9549-dbab1680c9ca",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Goji-XGJ",
-      "IP": "71.192.56.163",
-      "Port": 9444
-    },
-    {
-      "UUID": "43086ac4-9bcc-45fc-8816-d9c6de81bad6",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Goji-XGJ",
-      "IP": "178.47.111.16",
-      "Port": 7444
-    },
-    {
-      "UUID": "5898ae83-f467-4c34-bb1b-482725ae876e",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Goji-XGJ",
-      "IP": "69.207.130.136",
-      "Port": 7444
-    },
-    {
-      "UUID": "6ac04370-f3aa-4a8a-bfac-53f99bfced1f",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Goji-XGJ",
-      "IP": "181.92.34.85",
-      "Port": 7444
-    }
-  ],
-  "Flax-XFX": [
-    {
-      "UUID": "0da01c6b-a5f8-4b4c-a05b-e80b60b2a2fe",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Flax-XFX",
-      "IP": "37.187.244.83",
-      "Port": 6888
-    },
-    {
-      "UUID": "7b754946-a2b8-43f7-a3f3-4051a188fe0c",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Flax-XFX",
-      "IP": "80.240.31.41",
-      "Port": 6888
-    },
-    {
-      "UUID": "d48b9b48-11f4-4f46-84a9-ae132e8cf0a7",
-      "CreatedAt": "2021-08-01T09:44:42",
-      "CurrencyID": "Flax-XFX",
-      "IP": "178.26.145.107",
-      "Port": 6888
-    },
-    {
-      "UUID": "0950c0f8-45f7-44b1-acbd-34ba68afce5a",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Flax-XFX",
-      "IP": "92.239.138.144",
-      "Port": 6888
-    },
-    {
-      "UUID": "9a86ce0a-1724-47f3-a44a-675de546c3d2",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Flax-XFX",
-      "IP": "159.196.227.246",
-      "Port": 6888
-    },
-    {
-      "UUID": "d44c98ab-265e-49f1-8cb2-500834636f1c",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Flax-XFX",
-      "IP": "62.143.161.57",
-      "Port": 6888
-    },
-    {
-      "UUID": "2068cbcc-8084-4093-87b7-cac9288635e7",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Flax-XFX",
-      "IP": "122.116.210.186",
-      "Port": 6888
-    },
-    {
-      "UUID": "5400839d-15bd-4cdc-b400-b2cac87c187d",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Flax-XFX",
-      "IP": "174.92.30.236",
-      "Port": 6888
-    },
-    {
-      "UUID": "cf635fd5-8658-45b0-b7f0-247299e56474",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Flax-XFX",
-      "IP": "83.149.106.151",
-      "Port": 6888
-    }
-  ],
-  "Equality-XEQ": [
-    {
-      "UUID": "04199144-77af-480f-b8b3-0c09e950f193",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "172.111.188.102",
-      "Port": 9888
-    },
-    {
-      "UUID": "e8780a94-84f6-4776-8d26-3453f2ff3999",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "149.224.110.49",
-      "Port": 9888
-    },
-    {
-      "UUID": "89fc2b28-6950-4a16-a685-38999bbbd4e2",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "23.159.160.33",
-      "Port": 9888
-    },
-    {
-      "UUID": "b586a908-2cc6-4ce7-ad94-2e04bd41b194",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "24.226.75.91",
-      "Port": 9888
-    },
-    {
-      "UUID": "2fc13bf2-56a5-4350-b9cb-e9ee878183a5",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "66.51.101.106",
-      "Port": 9888
-    },
-    {
-      "UUID": "e7c259ee-1291-4f79-a480-a09e13ccbb4c",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "188.242.173.114",
-      "Port": 9888
-    },
-    {
-      "UUID": "8410262b-0db0-490e-a593-3504f470557d",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "171.246.175.151",
-      "Port": 9888
-    },
-    {
-      "UUID": "9c4a88b8-4de4-4529-b815-0c81ce3adfa8",
-      "CreatedAt": "2021-08-01T09:44:42",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "151.31.46.174",
-      "Port": 9888
-    },
-    {
-      "UUID": "01f5c6a2-9406-466f-8770-6d8577d385e0",
-      "CreatedAt": "2021-08-01T07:33:44",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "91.158.116.33",
-      "Port": 9888
-    },
-    {
-      "UUID": "babe06da-b633-4648-aca0-936e7fad3599",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "84.19.66.51",
-      "Port": 9888
-    },
-    {
-      "UUID": "9c2db056-63e4-4ccb-b9a3-0a6cd0af5153",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "174.112.137.191",
-      "Port": 9888
-    },
-    {
-      "UUID": "8d45b8a6-3eaf-456f-b19c-b91310ce52c7",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "93.55.210.51",
-      "Port": 9888
-    },
-    {
-      "UUID": "79122f7b-c3d6-4349-966f-67b2149be274",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "51.19.106.88",
-      "Port": 9888
-    },
-    {
-      "UUID": "70079e7a-78c8-4626-a784-bbba0d62e62c",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "113.176.221.57",
-      "Port": 9888
-    },
-    {
-      "UUID": "e12b9aaf-be69-4e48-bfa4-314fb0168d2c",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "121.189.184.194",
-      "Port": 9888
-    },
-    {
-      "UUID": "2e5480ed-f072-40c2-9203-09361f72b02c",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "80.183.32.216",
-      "Port": 9888
-    },
-    {
-      "UUID": "fd8edc58-40bf-4b29-8983-0e238b0df4a8",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "71.127.170.108",
-      "Port": 9888
-    },
-    {
-      "UUID": "65b8c631-4f0d-426c-a912-93dcbf2d46e0",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "122.117.50.199",
-      "Port": 9888
-    },
-    {
-      "UUID": "d1dca9d1-ddd4-4b7b-b67e-0100048f869a",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "79.17.175.151",
-      "Port": 9888
-    },
-    {
-      "UUID": "39bf548d-b95a-4b73-a529-ea4fa7d8a10e",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "46.5.183.207",
-      "Port": 9888
-    },
-    {
-      "UUID": "94ce2ffa-efce-495b-b1d4-ce259f308b6c",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "93.91.157.22",
-      "Port": 9888
-    },
-    {
-      "UUID": "98c35d17-c0b3-4388-bab8-2a566cf11990",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "84.112.104.176",
-      "Port": 9888
-    },
-    {
-      "UUID": "05d5e261-2935-4e4c-b3f1-17c5a3285737",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "72.76.40.2",
-      "Port": 9888
-    },
-    {
-      "UUID": "6c3aebec-65d2-43c3-950c-27d08f2bb258",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Equality-XEQ",
-      "IP": "58.136.4.91",
-      "Port": 9888
-    }
-  ],
   "Wheat-WHEAT": [
     {
-      "UUID": "9b67231f-189b-4091-981c-5d7d2f57126f",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "88cb988d-3af4-4102-acda-41797acafdd2",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Wheat-WHEAT",
       "IP": "113.165.178.160",
       "Port": 21333
     },
     {
-      "UUID": "d7548992-4ad7-4c65-b844-72d3c5d6b8a1",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "23134280-10be-465b-bed3-ec9058d30b5f",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Wheat-WHEAT",
       "IP": "24.183.148.45",
       "Port": 21333
     },
     {
-      "UUID": "999d03b5-a3cf-4600-90d3-1b9398db5d98",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "a5cc7c10-116b-46af-8f83-cf52b2509de2",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Wheat-WHEAT",
       "IP": "110.80.140.240",
       "Port": 21333
     },
     {
-      "UUID": "d2e3b383-c41e-4557-b4e8-34b104ed6e87",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "85f310af-e8c3-4a5c-b13d-cf5393ebbf58",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Wheat-WHEAT",
       "IP": "89.233.159.231",
       "Port": 21333
     },
     {
-      "UUID": "47f904fe-d887-43a6-8f43-2c056beef75b",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "52f06c94-d941-4c58-bc2b-0a0497eb4034",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Wheat-WHEAT",
       "IP": "188.242.173.114",
       "Port": 21333
     },
     {
-      "UUID": "089f59a7-e665-4e67-8843-7ea19b9ccf09",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "f6b0d1ec-7d4d-4a7a-8298-a1cd6f0d37f4",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Wheat-WHEAT",
       "IP": "148.71.154.98",
       "Port": 21333
     },
     {
-      "UUID": "b8b7e6ff-9beb-4d1f-9dd0-83f1d77fb111",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "63e2e855-7269-4001-8047-3e939e0e327e",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Wheat-WHEAT",
       "IP": "58.254.36.82",
       "Port": 21333
     },
     {
-      "UUID": "d814fbb0-2ea0-47ce-80ef-d92066656fc0",
-      "CreatedAt": "2021-08-01T09:44:42",
+      "UUID": "5f71576c-e99c-4dbe-b14b-27dc062029a5",
+      "CreatedAt": "2021-08-01T09:45:06",
       "CurrencyID": "Wheat-WHEAT",
       "IP": "46.208.80.214",
       "Port": 21333
@@ -1276,59 +218,226 @@
       "Port": 21333
     }
   ],
+  "Flax-XFX": [
+    {
+      "UUID": "c636d6e4-616d-4e5d-9ccf-3d0565c5d204",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Flax-XFX",
+      "IP": "37.187.244.83",
+      "Port": 6888
+    },
+    {
+      "UUID": "1e064ebb-9ee4-4378-ab54-9c5d09643eef",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Flax-XFX",
+      "IP": "80.240.31.41",
+      "Port": 6888
+    },
+    {
+      "UUID": "b85255a0-7ef2-49a0-8391-710073c0f742",
+      "CreatedAt": "2021-08-01T09:45:06",
+      "CurrencyID": "Flax-XFX",
+      "IP": "178.26.145.107",
+      "Port": 6888
+    },
+    {
+      "UUID": "0950c0f8-45f7-44b1-acbd-34ba68afce5a",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Flax-XFX",
+      "IP": "92.239.138.144",
+      "Port": 6888
+    },
+    {
+      "UUID": "9a86ce0a-1724-47f3-a44a-675de546c3d2",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Flax-XFX",
+      "IP": "159.196.227.246",
+      "Port": 6888
+    },
+    {
+      "UUID": "d44c98ab-265e-49f1-8cb2-500834636f1c",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Flax-XFX",
+      "IP": "62.143.161.57",
+      "Port": 6888
+    },
+    {
+      "UUID": "2068cbcc-8084-4093-87b7-cac9288635e7",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Flax-XFX",
+      "IP": "122.116.210.186",
+      "Port": 6888
+    },
+    {
+      "UUID": "5400839d-15bd-4cdc-b400-b2cac87c187d",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Flax-XFX",
+      "IP": "174.92.30.236",
+      "Port": 6888
+    },
+    {
+      "UUID": "cf635fd5-8658-45b0-b7f0-247299e56474",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Flax-XFX",
+      "IP": "83.149.106.151",
+      "Port": 6888
+    }
+  ],
+  "FxxkForkCoin-FFK": [
+    {
+      "UUID": "c7460e51-7259-4187-be80-c015e3edfde8",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "FxxkForkCoin-FFK",
+      "IP": "116.22.52.178",
+      "Port": 4499
+    },
+    {
+      "UUID": "447beae2-4da9-49b8-a2dd-0c7b312ed2e4",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "FxxkForkCoin-FFK",
+      "IP": "183.88.175.173",
+      "Port": 4499
+    },
+    {
+      "UUID": "ed191626-55f7-458e-9ef1-9d9434de926b",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "FxxkForkCoin-FFK",
+      "IP": "118.190.143.231",
+      "Port": 4499
+    },
+    {
+      "UUID": "8547c392-2f3a-4154-9e94-2cb559595c95",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "FxxkForkCoin-FFK",
+      "IP": "62.197.209.47",
+      "Port": 4499
+    },
+    {
+      "UUID": "9358d414-f11e-47b7-a61a-c01d9319e5a7",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "FxxkForkCoin-FFK",
+      "IP": "184.82.147.30",
+      "Port": 4499
+    },
+    {
+      "UUID": "f8f62124-dbbf-4436-9015-3a93701b5422",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "FxxkForkCoin-FFK",
+      "IP": "82.50.93.7",
+      "Port": 4499
+    },
+    {
+      "UUID": "c1640f82-ac59-4983-9752-83818d25fe29",
+      "CreatedAt": "2021-08-01T09:45:06",
+      "CurrencyID": "FxxkForkCoin-FFK",
+      "IP": "218.110.159.176",
+      "Port": 4499
+    }
+  ],
+  "Chia-XCH": [
+    {
+      "UUID": "39b7bcc9-0e9e-4c2e-9d33-46acd3352ff2",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Chia-XCH",
+      "IP": "72.198.84.79",
+      "Port": 8444
+    },
+    {
+      "UUID": "8fd2eae6-8e63-4964-80f3-f54571f520c1",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Chia-XCH",
+      "IP": "46.128.241.124",
+      "Port": 8444
+    },
+    {
+      "UUID": "9dce9c17-2296-4180-8e25-50ffd407656b",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Chia-XCH",
+      "IP": "67.159.143.29",
+      "Port": 8444
+    },
+    {
+      "UUID": "f51c4033-5642-470b-89ca-75f5bf892b2a",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Chia-XCH",
+      "IP": "217.155.46.151",
+      "Port": 8444
+    },
+    {
+      "UUID": "15af38ce-705d-4707-ac96-025a68f35572",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Chia-XCH",
+      "IP": "46.243.161.38",
+      "Port": 8444
+    },
+    {
+      "UUID": "1cf24ce3-eb12-4127-a2e1-d45e3634c090",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Chia-XCH",
+      "IP": "185.170.211.162",
+      "Port": 8444
+    },
+    {
+      "UUID": "7885645b-7d76-42b1-adb0-c52a2ff0a4c8",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Chia-XCH",
+      "IP": "147.91.144.45",
+      "Port": 8444
+    }
+  ],
   "ChiaDoge-XCD": [
     {
-      "UUID": "d5def636-fcf7-4db0-ac21-bfabeca16813",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "1cdf3eee-a8d6-40d1-9711-c9f3a2372151",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "ChiaDoge-XCD",
       "IP": "109.48.62.231",
       "Port": 6899
     },
     {
-      "UUID": "f5f95da2-e241-4389-b15e-c48b83b1bca7",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "38a3946c-3bc5-4925-8267-4703f857abd1",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "ChiaDoge-XCD",
       "IP": "93.56.110.119",
       "Port": 6899
     },
     {
-      "UUID": "80fade26-7ebd-47f2-80c3-23a1b1f6f461",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "77485888-5bde-49e5-adec-c06fd172b50a",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "ChiaDoge-XCD",
       "IP": "121.211.244.107",
       "Port": 6899
     },
     {
-      "UUID": "29fa820b-11e2-481d-b426-9fa65812102e",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "bd6a4ea6-f4b1-4d53-ad84-c4a4e9f47971",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "ChiaDoge-XCD",
       "IP": "201.191.96.29",
       "Port": 6899
     },
     {
-      "UUID": "2ad2f449-d7ed-4d02-aa8e-e5ad344718ff",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "36fa11f6-8af0-4c22-8d06-2449a1d31efc",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "ChiaDoge-XCD",
       "IP": "87.216.97.19",
       "Port": 6899
     },
     {
-      "UUID": "99de82fa-aa0a-4309-b050-3b1cb811a520",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "b3e50e37-7b61-4386-b18b-5cf65379a501",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "ChiaDoge-XCD",
       "IP": "188.23.53.191",
       "Port": 6899
     },
     {
-      "UUID": "42de9585-1e27-4ecb-a9a3-ccd3314743ad",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "644e5793-617f-445f-a00e-5c315de8046e",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "ChiaDoge-XCD",
       "IP": "151.31.46.174",
       "Port": 6899
     },
     {
-      "UUID": "ecdd260d-12b3-48fc-80dd-f4d4bc57302c",
-      "CreatedAt": "2021-08-01T09:44:42",
+      "UUID": "1cf1c503-938d-4dde-9d88-bd305514dedf",
+      "CreatedAt": "2021-08-01T09:45:06",
       "CurrencyID": "ChiaDoge-XCD",
       "IP": "188.76.234.15",
       "Port": 6899
@@ -1439,124 +548,303 @@
       "Port": 6899
     }
   ],
-  "Tad-TAD": [
+  "GreenDoge-GDOG": [
     {
-      "UUID": "6c7a105a-f0ec-4279-9fab-909bc59519ec",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Tad-TAD",
-      "IP": "47.61.254.75",
-      "Port": 4044
+      "UUID": "e196e794-ded5-4fe1-9d37-e5a2027ac940",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "GreenDoge-GDOG",
+      "IP": "177.62.223.216",
+      "Port": 6544
     },
     {
-      "UUID": "6ec519d5-8c57-43eb-9d7e-ee71e6c4ca27",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Tad-TAD",
-      "IP": "31.202.4.147",
-      "Port": 4044
+      "UUID": "c24525e5-9e10-442f-ae84-1aad7d8f7f01",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "GreenDoge-GDOG",
+      "IP": "178.119.156.76",
+      "Port": 6544
     },
     {
-      "UUID": "6ebf6bb6-abcd-4ce0-b460-8a7064b72f12",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Tad-TAD",
-      "IP": "149.28.239.187",
-      "Port": 4044
+      "UUID": "8dd3876d-abf5-4e96-8700-3891da584706",
+      "CreatedAt": "2021-08-01T09:45:06",
+      "CurrencyID": "GreenDoge-GDOG",
+      "IP": "68.41.40.26",
+      "Port": 6544
     },
     {
-      "UUID": "53652db0-5fa5-47d9-8b84-f1814eddabb8",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Tad-TAD",
-      "IP": "201.191.96.29",
-      "Port": 4044
+      "UUID": "0228ddfc-b305-4d57-8b0a-5b9019244d6d",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "GreenDoge-GDOG",
+      "IP": "99.250.170.201",
+      "Port": 6544
     },
     {
-      "UUID": "cc611abf-f18d-48bd-b15e-ab71901b1d2f",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Tad-TAD",
-      "IP": "58.229.108.2",
-      "Port": 4044
+      "UUID": "07095f56-674c-47c4-bec3-c3b8644fac9b",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "GreenDoge-GDOG",
+      "IP": "93.91.157.22",
+      "Port": 6544
     },
     {
-      "UUID": "f8ba2626-ec6a-4d27-bc8d-e30afaa5f354",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Tad-TAD",
-      "IP": "174.112.137.191",
-      "Port": 4044
+      "UUID": "ab175787-58a3-45e9-83ea-afab3bb71df3",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "GreenDoge-GDOG",
+      "IP": "79.168.58.24",
+      "Port": 6544
     },
     {
-      "UUID": "ded8784e-f69b-4fdf-903c-76b13689beb5",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Tad-TAD",
-      "IP": "68.47.68.134",
-      "Port": 4044
+      "UUID": "2b01dc1f-cc27-4f39-8b12-0d1863019641",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "GreenDoge-GDOG",
+      "IP": "122.116.108.42",
+      "Port": 6544
     },
     {
-      "UUID": "4db3b61e-857d-4b8c-a43c-b3cc9fac5208",
-      "CreatedAt": "2021-08-01T09:44:42",
-      "CurrencyID": "Tad-TAD",
-      "IP": "37.229.174.83",
-      "Port": 4044
+      "UUID": "30595215-8bd0-4ca1-ace6-82eed6137dc1",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "GreenDoge-GDOG",
+      "IP": "72.76.40.2",
+      "Port": 6544
     },
     {
-      "UUID": "6812a139-03d9-490c-bb6f-b25b152f328c",
+      "UUID": "3addca61-9f52-402c-b0e1-97deaf07ef1e",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "GreenDoge-GDOG",
+      "IP": "78.34.6.85",
+      "Port": 6544
+    }
+  ],
+  "Cactus-CAC": [
+    {
+      "UUID": "a5c4485f-6602-4359-832e-139765f45ea1",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Cactus-CAC",
+      "IP": "99.250.170.201",
+      "Port": 11444
+    },
+    {
+      "UUID": "093831a6-e358-498c-9d14-c872b0c72dc1",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Cactus-CAC",
+      "IP": "62.197.209.47",
+      "Port": 11444
+    },
+    {
+      "UUID": "c7435831-5f56-4991-8562-996acdd1782d",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Cactus-CAC",
+      "IP": "123.112.241.26",
+      "Port": 11444
+    },
+    {
+      "UUID": "6b5e5cac-f01b-4071-b93e-b3e1852024b6",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Cactus-CAC",
+      "IP": "91.126.120.146",
+      "Port": 11444
+    },
+    {
+      "UUID": "ac3d4542-d7a1-46fd-986e-f508519c7117",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Cactus-CAC",
+      "IP": "185.53.22.15",
+      "Port": 11444
+    },
+    {
+      "UUID": "b8b40a4d-62b8-4a72-9a76-77474f62c59e",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Cactus-CAC",
+      "IP": "94.3.32.187",
+      "Port": 11444
+    },
+    {
+      "UUID": "a51bcafa-1e2c-4d97-aefa-5f37c7230ab4",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Cactus-CAC",
+      "IP": "66.51.101.106",
+      "Port": 11444
+    },
+    {
+      "UUID": "3f2d5cd8-3a72-4e06-8d6d-72e34aafc2b4",
+      "CreatedAt": "2021-08-01T09:45:06",
+      "CurrencyID": "Cactus-CAC",
+      "IP": "61.90.110.110",
+      "Port": 11444
+    },
+    {
+      "UUID": "ef253ea1-2eff-48d3-bcc2-82305de9dfd2",
       "CreatedAt": "2021-08-01T07:41:39",
-      "CurrencyID": "Tad-TAD",
-      "IP": "171.232.188.38",
-      "Port": 4044
+      "CurrencyID": "Cactus-CAC",
+      "IP": "2.28.2.229",
+      "Port": 11444
+    },
+    {
+      "UUID": "2bd3a157-9804-498c-bf72-5c74d7fe1724",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Cactus-CAC",
+      "IP": "206.116.176.9",
+      "Port": 11444
+    },
+    {
+      "UUID": "2b59d479-d38c-48b3-82f3-e6d744bcfe28",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Cactus-CAC",
+      "IP": "65.21.32.241",
+      "Port": 11444
+    },
+    {
+      "UUID": "18cbcbff-3725-431d-b75d-ba16cf808e7d",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Cactus-CAC",
+      "IP": "83.57.127.27",
+      "Port": 11444
+    },
+    {
+      "UUID": "1e7a8e60-b407-4678-a35c-c081fd3048c2",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Cactus-CAC",
+      "IP": "98.45.1.159",
+      "Port": 11444
+    },
+    {
+      "UUID": "d8abb724-a9b4-46c0-a9fa-3bda2826953b",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Cactus-CAC",
+      "IP": "71.176.77.61",
+      "Port": 11444
+    },
+    {
+      "UUID": "053732c1-d9a4-4ea9-b56d-d14612d09b91",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Cactus-CAC",
+      "IP": "118.69.64.210",
+      "Port": 11444
+    },
+    {
+      "UUID": "282f22f5-be26-4329-8931-20c8fd274dce",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Cactus-CAC",
+      "IP": "24.6.10.156",
+      "Port": 11444
+    },
+    {
+      "UUID": "db39499f-cfab-4322-8df0-0d4b496147ab",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Cactus-CAC",
+      "IP": "46.11.51.27",
+      "Port": 11444
+    }
+  ],
+  "Apple-APPLE": [
+    {
+      "UUID": "fc72b9f3-4421-4902-83ec-27399acdeb02",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Apple-APPLE",
+      "IP": "178.76.249.142",
+      "Port": 26666
+    },
+    {
+      "UUID": "aa087eba-56e8-459e-9bfd-9574b0107979",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Apple-APPLE",
+      "IP": "106.104.194.55",
+      "Port": 26666
+    },
+    {
+      "UUID": "6166f997-ef48-4517-9faf-57161e4bf346",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Apple-APPLE",
+      "IP": "81.37.198.208",
+      "Port": 26666
+    },
+    {
+      "UUID": "6ade6e12-e7f5-449e-9454-fe995307dbf4",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Apple-APPLE",
+      "IP": "109.61.158.65",
+      "Port": 26666
+    },
+    {
+      "UUID": "f0e0b9f5-476f-4185-ae9b-1fc55f52b841",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Apple-APPLE",
+      "IP": "66.51.101.106",
+      "Port": 26666
+    },
+    {
+      "UUID": "32b77857-c9cf-45ff-985d-18249765660d",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Apple-APPLE",
+      "IP": "136.33.235.153",
+      "Port": 26666
+    },
+    {
+      "UUID": "ae028971-08a4-41cd-a5fc-83b3ce133f53",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Apple-APPLE",
+      "IP": "99.250.170.201",
+      "Port": 26666
+    },
+    {
+      "UUID": "9693b93c-b83f-4441-858d-3b25eda2c4fa",
+      "CreatedAt": "2021-08-01T09:45:06",
+      "CurrencyID": "Apple-APPLE",
+      "IP": "128.74.103.118",
+      "Port": 26666
     }
   ],
   "Sector-XSC": [
     {
-      "UUID": "edac119c-3859-4be6-858f-45593737ead9",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "51f2da2d-bc45-463d-9f5f-365c28a55180",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Sector-XSC",
       "IP": "193.80.27.245",
       "Port": 5765
     },
     {
-      "UUID": "a5c23c55-6b35-4cbb-aebd-e30e69802aec",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "3d6c4260-55bf-4a53-b820-89f71720f505",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Sector-XSC",
       "IP": "155.133.91.30",
       "Port": 5765
     },
     {
-      "UUID": "687f1b9a-deb7-4e19-96c5-3cf40235de7c",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "cebdbb22-7ef1-4b91-82af-884c9e52f78a",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Sector-XSC",
       "IP": "146.0.83.45",
       "Port": 5765
     },
     {
-      "UUID": "c1deb6f1-6f84-4936-97af-fca35e8f9525",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "54b8c1d4-3cce-40d1-952c-95663cc0e892",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Sector-XSC",
       "IP": "69.204.166.42",
       "Port": 5765
     },
     {
-      "UUID": "90eba58f-4e53-4c65-9e37-4bd816376230",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "4b197adb-1a97-486f-bd97-f59e32ceae19",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Sector-XSC",
       "IP": "121.189.184.194",
       "Port": 5765
     },
     {
-      "UUID": "ecc7dab5-1086-458e-8664-b1378ebff2ad",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "5a252714-c7d4-4b41-b09c-b90fd9aa152a",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Sector-XSC",
       "IP": "98.117.251.236",
       "Port": 5765
     },
     {
-      "UUID": "aa4ebb85-d146-49fc-929d-61dea3de8fd8",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "81a13fac-3631-4bbb-ac5a-d4e1b29218a9",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Sector-XSC",
       "IP": "91.116.0.196",
       "Port": 5765
     },
     {
-      "UUID": "5bcc81c9-4ba9-4326-8889-e0a156cd0180",
-      "CreatedAt": "2021-08-01T09:44:42",
+      "UUID": "884ebeda-22c0-482d-ba29-5eb0857a2dce",
+      "CreatedAt": "2021-08-01T09:45:06",
       "CurrencyID": "Sector-XSC",
       "IP": "89.134.66.131",
       "Port": 5765
@@ -1585,57 +873,57 @@
   ],
   "Melati-XMX": [
     {
-      "UUID": "fe3a3efd-5fbe-460c-a0f2-c9245204ec53",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "4941591f-b1be-4573-8e8e-d9d5d6131974",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Melati-XMX",
       "IP": "98.117.251.236",
       "Port": 2444
     },
     {
-      "UUID": "029bb67c-93c6-4a01-a093-cb862c6c0672",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "7670531f-431c-45d5-82bf-2f758fe03e05",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Melati-XMX",
       "IP": "86.111.132.169",
       "Port": 2444
     },
     {
-      "UUID": "4cc3607c-81ad-4155-b67a-03978b15d9b0",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "96899880-e69f-462e-90bb-76e7bcccf9bc",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Melati-XMX",
       "IP": "1.34.10.99",
       "Port": 2444
     },
     {
-      "UUID": "e4a5c225-ffd7-4f59-9560-75e19ea1f52b",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "ef12110c-51b9-4cf8-b506-c6d7d0eee2a4",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Melati-XMX",
       "IP": "46.8.174.80",
       "Port": 2444
     },
     {
-      "UUID": "855d1441-7b3a-4a0a-954d-329ba597aafa",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Melati-XMX",
-      "IP": "95.93.84.124",
-      "Port": 2444
-    },
-    {
-      "UUID": "1e0fdc48-0064-4865-9c5d-c281c53ec281",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Melati-XMX",
-      "IP": "93.51.77.74",
-      "Port": 2444
-    },
-    {
-      "UUID": "37a4ce4b-ebbe-4c53-88a1-d65205f3ff7e",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "181b42bb-e902-48d9-bd48-fe304d86fcdd",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Melati-XMX",
       "IP": "81.224.235.46",
       "Port": 2444
     },
     {
-      "UUID": "009a4ad7-7aee-4489-b17d-a1b54f3cbde2",
-      "CreatedAt": "2021-08-01T09:44:45",
+      "UUID": "d5626e3f-bc13-40c8-9d12-b0358143654a",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Melati-XMX",
+      "IP": "95.93.84.124",
+      "Port": 2444
+    },
+    {
+      "UUID": "64d24242-b13a-4f14-81ce-7c02db797130",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Melati-XMX",
+      "IP": "93.51.77.74",
+      "Port": 2444
+    },
+    {
+      "UUID": "4c74f018-549f-4627-9b20-155c3b0e5a0a",
+      "CreatedAt": "2021-08-01T09:45:06",
       "CurrencyID": "Melati-XMX",
       "IP": "113.160.222.182",
       "Port": 2444
@@ -1746,198 +1034,769 @@
       "Port": 2444
     }
   ],
-  "Covid-COV": [
+  "Flora-XFL": [
     {
-      "UUID": "0fc874c6-a51d-48fb-a52b-a1d0e01680c3",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Covid-COV",
-      "IP": "68.149.128.144",
-      "Port": 18120
+      "UUID": "929bee9e-8f9c-4023-9a61-771517b3e476",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Flora-XFL",
+      "IP": "195.36.10.19",
+      "Port": 18644
     },
     {
-      "UUID": "1deb03e4-8cbc-4417-9b2b-55cc6d091cd3",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Covid-COV",
-      "IP": "37.223.88.10",
-      "Port": 18120
+      "UUID": "868e2df4-f085-4bf3-8276-1e1066a217b7",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Flora-XFL",
+      "IP": "24.47.209.240",
+      "Port": 18644
     },
     {
-      "UUID": "056ced0a-0887-4939-aca6-bb2b7f5000d7",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Covid-COV",
-      "IP": "213.195.114.147",
-      "Port": 18120
+      "UUID": "56057d98-3971-40a4-b418-9fd29c746fd0",
+      "CreatedAt": "2021-08-01T09:45:06",
+      "CurrencyID": "Flora-XFL",
+      "IP": "77.238.148.65",
+      "Port": 18644
     },
     {
-      "UUID": "90ecf724-795c-4d4f-9140-ac20c5ed242e",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Covid-COV",
-      "IP": "155.133.91.30",
-      "Port": 18120
+      "UUID": "93b78e65-677b-49aa-9247-4fe0d55a750b",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Flora-XFL",
+      "IP": "73.150.163.222",
+      "Port": 18644
     },
     {
-      "UUID": "f3991379-02fc-407c-b63e-a70d49a675bc",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Covid-COV",
+      "UUID": "ad07c649-f2cf-47d5-84d5-917bcd1cb334",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Flora-XFL",
+      "IP": "77.229.123.48",
+      "Port": 18644
+    },
+    {
+      "UUID": "cee0af31-c2eb-4ed7-bf1a-91de2317d30a",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Flora-XFL",
+      "IP": "31.201.229.9",
+      "Port": 18644
+    },
+    {
+      "UUID": "f596ac68-d0ca-4ac8-99dc-ead07e314e4d",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Flora-XFL",
+      "IP": "5.167.103.239",
+      "Port": 18644
+    },
+    {
+      "UUID": "055a0d59-d8b5-4e04-915b-86c624df1cd9",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Flora-XFL",
+      "IP": "37.183.105.197",
+      "Port": 18644
+    },
+    {
+      "UUID": "230ee239-2d85-4402-a81d-b9648b618c19",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Flora-XFL",
+      "IP": "46.1.171.143",
+      "Port": 18644
+    },
+    {
+      "UUID": "9c616809-3885-4130-af6a-ec4915f2a329",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Flora-XFL",
+      "IP": "176.124.168.80",
+      "Port": 18644
+    }
+  ],
+  "DogeChia-XDG": [
+    {
+      "UUID": "9e4e95c4-6204-4d39-ad54-61d11efa1eda",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "DogeChia-XDG",
+      "IP": "89.176.160.239",
+      "Port": 42069
+    },
+    {
+      "UUID": "8321a489-3c00-4703-8cd6-758ae968190c",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "DogeChia-XDG",
+      "IP": "199.36.92.130",
+      "Port": 42069
+    },
+    {
+      "UUID": "ce5b7e28-cfd0-4c4b-8c4a-4d3f3a522e1b",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "DogeChia-XDG",
+      "IP": "90.150.171.11",
+      "Port": 42069
+    },
+    {
+      "UUID": "8b70d124-59ee-4a98-bb9e-d78fdd7ab304",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "DogeChia-XDG",
+      "IP": "37.79.213.110",
+      "Port": 42069
+    },
+    {
+      "UUID": "41c94212-2457-4d41-9188-3ec713814075",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "DogeChia-XDG",
+      "IP": "211.22.218.17",
+      "Port": 42069
+    },
+    {
+      "UUID": "56f966d9-5992-42bb-86b5-db162f4817f2",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "DogeChia-XDG",
+      "IP": "45.11.17.97",
+      "Port": 42069
+    },
+    {
+      "UUID": "8169e74e-bc80-49af-ae89-08ddc1f9dfea",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "DogeChia-XDG",
+      "IP": "181.133.52.87",
+      "Port": 42069
+    },
+    {
+      "UUID": "72769da8-6c29-4602-b081-4a094fe8c3f9",
+      "CreatedAt": "2021-08-01T09:45:06",
+      "CurrencyID": "DogeChia-XDG",
+      "IP": "179.105.223.12",
+      "Port": 42069
+    },
+    {
+      "UUID": "03f14f73-07a5-4f49-9c39-4d8cdcb81dd2",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "DogeChia-XDG",
+      "IP": "47.63.73.121",
+      "Port": 42069
+    },
+    {
+      "UUID": "374369fd-65e9-4215-9865-f7d9347ebe48",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "DogeChia-XDG",
+      "IP": "85.240.159.14",
+      "Port": 42069
+    },
+    {
+      "UUID": "535fc4de-4a94-4c44-95c2-f0964650d606",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "DogeChia-XDG",
+      "IP": "195.181.131.246",
+      "Port": 42069
+    },
+    {
+      "UUID": "5e77c753-2c70-4698-b00d-aadca01b5d4e",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "DogeChia-XDG",
+      "IP": "81.107.165.83",
+      "Port": 42069
+    },
+    {
+      "UUID": "6254e9bc-2db7-41af-9b5a-da77f98c58c9",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "DogeChia-XDG",
+      "IP": "93.51.77.74",
+      "Port": 42069
+    },
+    {
+      "UUID": "63c7aaee-a249-4bd9-b11c-01ac33c9066e",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "DogeChia-XDG",
+      "IP": "39.120.60.78",
+      "Port": 42069
+    },
+    {
+      "UUID": "e7c64e59-2fef-40af-9801-b5e0882d01ed",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "DogeChia-XDG",
+      "IP": "181.171.169.190",
+      "Port": 42069
+    },
+    {
+      "UUID": "f58f4977-4716-46fd-beb7-466a8af673e3",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "DogeChia-XDG",
+      "IP": "98.117.251.236",
+      "Port": 42069
+    }
+  ],
+  "Taco-XTX": [
+    {
+      "UUID": "d15e7f6c-7ecc-4b23-a02d-bedd44746eee",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Taco-XTX",
+      "IP": "124.121.75.71",
+      "Port": 18620
+    },
+    {
+      "UUID": "830d54f4-b7e0-4ad1-8e1c-39beb9883920",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Taco-XTX",
+      "IP": "91.126.171.132",
+      "Port": 10019
+    },
+    {
+      "UUID": "765bc697-c435-412b-8290-435a67aafc4f",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Taco-XTX",
+      "IP": "37.79.213.110",
+      "Port": 18620
+    },
+    {
+      "UUID": "4896ad00-6db3-442d-99f0-2d4d486d6a4a",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Taco-XTX",
+      "IP": "222.253.42.32",
+      "Port": 18620
+    },
+    {
+      "UUID": "41bc71c3-7293-4cf3-9ddb-24d3b680f697",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Taco-XTX",
+      "IP": "211.22.218.17",
+      "Port": 18620
+    },
+    {
+      "UUID": "53ba6118-0241-48f2-b2c4-7f03ed94928a",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Taco-XTX",
+      "IP": "94.63.82.46",
+      "Port": 18620
+    },
+    {
+      "UUID": "a799e59d-3968-4a6e-9f07-e44dc6333f71",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Taco-XTX",
+      "IP": "62.197.209.47",
+      "Port": 18620
+    },
+    {
+      "UUID": "94a2d6b7-cca1-4a46-a7f1-ac3c4d88e62a",
+      "CreatedAt": "2021-08-01T09:45:06",
+      "CurrencyID": "Taco-XTX",
       "IP": "106.104.194.55",
-      "Port": 18120
+      "Port": 18620
     },
     {
-      "UUID": "78ba476e-abec-4ded-a0e4-cd8bd86c04ae",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Covid-COV",
-      "IP": "171.232.188.38",
-      "Port": 18120
+      "UUID": "1ed834bf-305e-407e-833d-d9eceae05142",
+      "CreatedAt": "2021-08-01T07:30:26",
+      "CurrencyID": "Taco-XTX",
+      "IP": "27.32.51.169",
+      "Port": 18620
     },
     {
-      "UUID": "6b57a395-4c31-461e-8d72-a58a1e37d300",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Covid-COV",
+      "UUID": "d8251e11-1444-4e01-b956-051d398856b1",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Taco-XTX",
+      "IP": "86.160.155.91",
+      "Port": 18620
+    },
+    {
+      "UUID": "d5f43abb-bf16-43a3-8de8-2c9c9dae5423",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Taco-XTX",
+      "IP": "86.182.162.201",
+      "Port": 18620
+    },
+    {
+      "UUID": "b103eab1-6f77-4624-8d83-4293f67db902",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Taco-XTX",
+      "IP": "157.90.186.219",
+      "Port": 18620
+    },
+    {
+      "UUID": "b04bf0b8-0ce9-4bb3-bac1-908fb6bb3949",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Taco-XTX",
+      "IP": "173.33.160.226",
+      "Port": 18620
+    },
+    {
+      "UUID": "e13b2dc3-9c0e-4ec6-8cf0-14177f4e755f",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Taco-XTX",
+      "IP": "91.158.116.33",
+      "Port": 18620
+    },
+    {
+      "UUID": "e04bd808-df78-44c4-bde9-53c56f16fd94",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Taco-XTX",
+      "IP": "96.22.32.149",
+      "Port": 18620
+    },
+    {
+      "UUID": "2c538950-efa4-45df-8a5d-81f0848c4bcf",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Taco-XTX",
+      "IP": "37.229.174.83",
+      "Port": 18620
+    },
+    {
+      "UUID": "1cc419ca-9e71-4862-a68c-c25f74d98e2a",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Taco-XTX",
+      "IP": "185.72.72.6",
+      "Port": 18620
+    },
+    {
+      "UUID": "9bb2ad56-2953-436f-acd0-bce2017fc823",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Taco-XTX",
+      "IP": "71.176.77.61",
+      "Port": 18620
+    },
+    {
+      "UUID": "9d559bce-3e51-41f9-8500-ce2cbdf2f957",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Taco-XTX",
+      "IP": "93.51.77.74",
+      "Port": 18620
+    },
+    {
+      "UUID": "3319d983-b8be-4bd9-8a7a-48de9d608ff9",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Taco-XTX",
+      "IP": "58.136.66.204",
+      "Port": 18620
+    },
+    {
+      "UUID": "caa40ba1-a826-47ca-a16d-4364db99632e",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Taco-XTX",
+      "IP": "23.159.160.33",
+      "Port": 18620
+    },
+    {
+      "UUID": "17efb203-4579-46f4-961c-0e2a41a43396",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Taco-XTX",
+      "IP": "86.181.79.154",
+      "Port": 18620
+    },
+    {
+      "UUID": "dc0ff151-673f-425b-a4e0-cabd1eb8b4cb",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Taco-XTX",
+      "IP": "65.21.143.58",
+      "Port": 18620
+    },
+    {
+      "UUID": "538a4d98-ca82-40e1-9eb9-bed807534eb0",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Taco-XTX",
+      "IP": "91.44.212.45",
+      "Port": 18620
+    },
+    {
+      "UUID": "5b5e1618-2caf-4ab6-8d15-91ac11f3eb28",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Taco-XTX",
+      "IP": "213.14.144.248",
+      "Port": 18620
+    }
+  ],
+  "Socks-SOCK": [
+    {
+      "UUID": "84912398-027b-498e-ae4b-45bb59b58450",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "37.116.102.236",
+      "Port": 58444
+    },
+    {
+      "UUID": "8c205e48-994f-4cac-854c-4cb44378dc1b",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "82.73.239.148",
+      "Port": 58444
+    },
+    {
+      "UUID": "8c23b1ed-a251-4358-960a-f975b1fa8a07",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Socks-SOCK",
       "IP": "51.7.32.4",
-      "Port": 18120
+      "Port": 58444
     },
     {
-      "UUID": "36dbf34d-2b45-4a8b-89b2-14ba341fe205",
-      "CreatedAt": "2021-08-01T09:44:42",
-      "CurrencyID": "Covid-COV",
-      "IP": "66.252.197.9",
-      "Port": 18120
+      "UUID": "f0bddfa4-1ddd-4c45-98ba-23337ffe0431",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "80.108.108.220",
+      "Port": 58444
+    },
+    {
+      "UUID": "f9e12a24-8457-429d-8756-ad2e37b3ff99",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "155.133.91.46",
+      "Port": 58444
+    },
+    {
+      "UUID": "0c28c61f-51e5-4794-b7ee-472f5a729edc",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "39.120.60.133",
+      "Port": 58444
+    },
+    {
+      "UUID": "f8ce6a06-ad06-4fa3-a909-be4dbc2dbb97",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "116.111.119.193",
+      "Port": 58444
+    },
+    {
+      "UUID": "ecb313fe-e589-4cb2-9070-e51becf97cf0",
+      "CreatedAt": "2021-08-01T09:45:06",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "81.190.212.248",
+      "Port": 58444
+    },
+    {
+      "UUID": "d2d6ac8d-7c8d-4bcc-8077-5d2887798848",
+      "CreatedAt": "2021-08-01T09:35:23",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "113.189.38.246",
+      "Port": 58444
+    },
+    {
+      "UUID": "7523d9dd-2e63-4bf9-91b0-be67ff858d63",
+      "CreatedAt": "2021-08-01T09:35:23",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "89.79.125.66",
+      "Port": 58444
+    },
+    {
+      "UUID": "612fc85e-1536-4391-9ca7-a593160b5712",
+      "CreatedAt": "2021-08-01T09:35:23",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "77.23.73.233",
+      "Port": 58444
+    },
+    {
+      "UUID": "7fcc1fdc-1c4e-42aa-bb6a-9bebe67fdc08",
+      "CreatedAt": "2021-08-01T09:35:23",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "86.111.132.169",
+      "Port": 58444
+    },
+    {
+      "UUID": "15f6566d-1792-42ef-ac80-ef5c591aa48e",
+      "CreatedAt": "2021-08-01T07:41:39",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "24.226.75.91",
+      "Port": 58444
+    },
+    {
+      "UUID": "dafe21b5-caf7-4b93-9512-117cc2498beb",
+      "CreatedAt": "2021-08-01T07:41:39",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "83.240.8.136",
+      "Port": 58444
+    },
+    {
+      "UUID": "b35b26c6-f8cf-4d4a-ab32-283ab3e8b10c",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "177.229.72.58",
+      "Port": 58444
+    },
+    {
+      "UUID": "b82a0f1f-99ef-458f-9c37-85039d8b6c47",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "62.224.62.229",
+      "Port": 58444
+    },
+    {
+      "UUID": "32ee27bd-b195-4f1e-8eed-78b11dc3949c",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "95.136.56.103",
+      "Port": 58444
+    },
+    {
+      "UUID": "db338eff-0fff-48d0-b3b3-4f649bde1094",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "101.127.182.161",
+      "Port": 58444
+    },
+    {
+      "UUID": "20832c5a-2b5c-4f2c-a755-946d0010e6b4",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "14.243.23.67",
+      "Port": 58444
+    },
+    {
+      "UUID": "ba872aff-88cd-4141-bebd-b9f20de8fb9f",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "97.75.133.152",
+      "Port": 58444
+    },
+    {
+      "UUID": "96318203-f7c9-4777-86a9-a81fc92e7a21",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "121.189.184.194",
+      "Port": 58444
+    },
+    {
+      "UUID": "c3a0625d-ff45-434a-9bbe-b5056141447f",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "85.84.55.21",
+      "Port": 58444
+    },
+    {
+      "UUID": "3a6ed8e1-a6a4-4b9d-8bd8-a1bef045dcf9",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "88.69.36.170",
+      "Port": 58444
+    },
+    {
+      "UUID": "513dd600-9965-4a4f-9eaa-9abc9c4c5b64",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "81.107.165.83",
+      "Port": 58444
+    },
+    {
+      "UUID": "4dbafcd5-bb78-4ecf-940f-d8ef91dab699",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "163.172.223.49",
+      "Port": 58444
+    },
+    {
+      "UUID": "1fe3a041-fe2e-40a1-b9c9-d6979b9d3264",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "93.95.99.78",
+      "Port": 58444
+    },
+    {
+      "UUID": "16e69b04-e0d6-4743-ac5d-cbc1b7aa068c",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "91.38.119.209",
+      "Port": 58444
+    },
+    {
+      "UUID": "8631ea79-4296-4251-b704-522a4119c366",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "93.51.77.74",
+      "Port": 58444
+    },
+    {
+      "UUID": "e928b6a6-681c-4db0-b2b4-014b45d46332",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Socks-SOCK",
+      "IP": "86.182.162.201",
+      "Port": 58444
     }
   ],
-  "HDDcoin-HDD": [
+  "Equality-XEQ": [
     {
-      "UUID": "1b4b4c00-b2d9-4e3c-9ce7-b2616549bc93",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "HDDcoin-HDD",
-      "IP": "66.229.5.111",
-      "Port": 28444
+      "UUID": "d88ec740-70fc-44d2-b31c-63cae0671714",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Equality-XEQ",
+      "IP": "172.111.188.102",
+      "Port": 9888
     },
     {
-      "UUID": "c823eb0a-f722-4933-af5a-d08986b64a0c",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "HDDcoin-HDD",
-      "IP": "184.147.69.11",
-      "Port": 28444
+      "UUID": "16d78806-e58e-4ee9-8400-9a73afdc16c1",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Equality-XEQ",
+      "IP": "149.224.110.49",
+      "Port": 9888
     },
     {
-      "UUID": "06fe68bb-6a86-4f87-9333-5cc60b07345d",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "HDDcoin-HDD",
-      "IP": "74.215.148.11",
-      "Port": 28444
+      "UUID": "e8b6a178-d99d-44aa-9a96-30e733177fb8",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Equality-XEQ",
+      "IP": "23.159.160.33",
+      "Port": 9888
     },
     {
-      "UUID": "bfc788e1-76b2-4463-868c-f16e2f01c96b",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "HDDcoin-HDD",
-      "IP": "83.248.133.132",
-      "Port": 28444
+      "UUID": "cc23561a-a339-4859-9020-c354113cad9a",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Equality-XEQ",
+      "IP": "24.226.75.91",
+      "Port": 9888
     },
     {
-      "UUID": "12fcd15a-44fb-4e34-9947-4db528bda589",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "HDDcoin-HDD",
-      "IP": "85.8.41.149",
-      "Port": 28444
+      "UUID": "7b150200-e6ec-413c-a1b8-d7ccf864cb31",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Equality-XEQ",
+      "IP": "66.51.101.106",
+      "Port": 9888
     },
     {
-      "UUID": "e117b22f-5e07-42b6-8269-d0c0d837f221",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "HDDcoin-HDD",
-      "IP": "92.167.21.31",
-      "Port": 28444
+      "UUID": "1c3d5bb8-f040-4fa7-ae99-edfac660e096",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Equality-XEQ",
+      "IP": "171.246.175.151",
+      "Port": 9888
     },
     {
-      "UUID": "9ab7b59f-5fa3-49bc-b62e-411fd7506d89",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "HDDcoin-HDD",
-      "IP": "95.77.107.228",
-      "Port": 28444
+      "UUID": "58514189-6cfc-4cdc-8f2b-8f4a8136767b",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Equality-XEQ",
+      "IP": "188.242.173.114",
+      "Port": 9888
     },
     {
-      "UUID": "dd029497-c33d-4111-ac95-9f570dcb5cf9",
-      "CreatedAt": "2021-08-01T09:44:42",
-      "CurrencyID": "HDDcoin-HDD",
-      "IP": "66.41.159.172",
-      "Port": 28444
-    }
-  ],
-  "Chia-XCH": [
+      "UUID": "c823ee2a-3d8e-453e-a28b-8e6fa2344e73",
+      "CreatedAt": "2021-08-01T09:45:06",
+      "CurrencyID": "Equality-XEQ",
+      "IP": "151.31.46.174",
+      "Port": 9888
+    },
     {
-      "UUID": "39b7bcc9-0e9e-4c2e-9d33-46acd3352ff2",
+      "UUID": "01f5c6a2-9406-466f-8770-6d8577d385e0",
+      "CreatedAt": "2021-08-01T07:33:44",
+      "CurrencyID": "Equality-XEQ",
+      "IP": "91.158.116.33",
+      "Port": 9888
+    },
+    {
+      "UUID": "babe06da-b633-4648-aca0-936e7fad3599",
       "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Chia-XCH",
-      "IP": "72.198.84.79",
-      "Port": 8444
+      "CurrencyID": "Equality-XEQ",
+      "IP": "84.19.66.51",
+      "Port": 9888
     },
     {
-      "UUID": "8fd2eae6-8e63-4964-80f3-f54571f520c1",
+      "UUID": "9c2db056-63e4-4ccb-b9a3-0a6cd0af5153",
       "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Chia-XCH",
-      "IP": "46.128.241.124",
-      "Port": 8444
+      "CurrencyID": "Equality-XEQ",
+      "IP": "174.112.137.191",
+      "Port": 9888
     },
     {
-      "UUID": "9dce9c17-2296-4180-8e25-50ffd407656b",
+      "UUID": "8d45b8a6-3eaf-456f-b19c-b91310ce52c7",
       "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Chia-XCH",
-      "IP": "67.159.143.29",
-      "Port": 8444
+      "CurrencyID": "Equality-XEQ",
+      "IP": "93.55.210.51",
+      "Port": 9888
     },
     {
-      "UUID": "f51c4033-5642-470b-89ca-75f5bf892b2a",
+      "UUID": "79122f7b-c3d6-4349-966f-67b2149be274",
       "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Chia-XCH",
-      "IP": "217.155.46.151",
-      "Port": 8444
+      "CurrencyID": "Equality-XEQ",
+      "IP": "51.19.106.88",
+      "Port": 9888
     },
     {
-      "UUID": "15af38ce-705d-4707-ac96-025a68f35572",
+      "UUID": "70079e7a-78c8-4626-a784-bbba0d62e62c",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Equality-XEQ",
+      "IP": "113.176.221.57",
+      "Port": 9888
+    },
+    {
+      "UUID": "fd8edc58-40bf-4b29-8983-0e238b0df4a8",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Equality-XEQ",
+      "IP": "71.127.170.108",
+      "Port": 9888
+    },
+    {
+      "UUID": "e12b9aaf-be69-4e48-bfa4-314fb0168d2c",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Equality-XEQ",
+      "IP": "121.189.184.194",
+      "Port": 9888
+    },
+    {
+      "UUID": "2e5480ed-f072-40c2-9203-09361f72b02c",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Equality-XEQ",
+      "IP": "80.183.32.216",
+      "Port": 9888
+    },
+    {
+      "UUID": "65b8c631-4f0d-426c-a912-93dcbf2d46e0",
       "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Chia-XCH",
-      "IP": "46.243.161.38",
-      "Port": 8444
+      "CurrencyID": "Equality-XEQ",
+      "IP": "122.117.50.199",
+      "Port": 9888
     },
     {
-      "UUID": "1cf24ce3-eb12-4127-a2e1-d45e3634c090",
+      "UUID": "d1dca9d1-ddd4-4b7b-b67e-0100048f869a",
       "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Chia-XCH",
-      "IP": "185.170.211.162",
-      "Port": 8444
+      "CurrencyID": "Equality-XEQ",
+      "IP": "79.17.175.151",
+      "Port": 9888
     },
     {
-      "UUID": "7885645b-7d76-42b1-adb0-c52a2ff0a4c8",
+      "UUID": "94ce2ffa-efce-495b-b1d4-ce259f308b6c",
       "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Chia-XCH",
-      "IP": "147.91.144.45",
-      "Port": 8444
+      "CurrencyID": "Equality-XEQ",
+      "IP": "93.91.157.22",
+      "Port": 9888
+    },
+    {
+      "UUID": "98c35d17-c0b3-4388-bab8-2a566cf11990",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Equality-XEQ",
+      "IP": "84.112.104.176",
+      "Port": 9888
+    },
+    {
+      "UUID": "05d5e261-2935-4e4c-b3f1-17c5a3285737",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Equality-XEQ",
+      "IP": "72.76.40.2",
+      "Port": 9888
+    },
+    {
+      "UUID": "6c3aebec-65d2-43c3-950c-27d08f2bb258",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Equality-XEQ",
+      "IP": "58.136.4.91",
+      "Port": 9888
+    },
+    {
+      "UUID": "39bf548d-b95a-4b73-a529-ea4fa7d8a10e",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Equality-XEQ",
+      "IP": "46.5.183.207",
+      "Port": 9888
     }
   ],
   "Spare-SPARE": [
     {
-      "UUID": "6413ee0e-86b7-4fcb-bcd8-4906a68c0701",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Spare-SPARE",
-      "IP": "114.160.199.64",
-      "Port": 9444
-    },
-    {
-      "UUID": "1ee3de18-90ae-4ad2-aee2-1ef2727af628",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Spare-SPARE",
-      "IP": "84.244.16.159",
-      "Port": 9444
-    },
-    {
-      "UUID": "4f037aaa-41b2-48d7-a477-2f8ba0791acb",
-      "CreatedAt": "2021-08-01T09:44:48",
+      "UUID": "0b05f3fb-4554-4d3e-bfa4-c4e9dfc80f3e",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Spare-SPARE",
       "IP": "83.135.154.153",
       "Port": 9444
     },
     {
-      "UUID": "0251e34a-f6df-40c1-9562-117c03296c72",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "967a46f3-2a8a-4c8c-af86-051e2a78086e",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Spare-SPARE",
+      "IP": "114.160.199.64",
+      "Port": 9444
+    },
+    {
+      "UUID": "fe02efa1-102a-4613-bfec-8b9cd6780b35",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Spare-SPARE",
+      "IP": "84.244.16.159",
+      "Port": 9444
+    },
+    {
+      "UUID": "6d63f907-c975-49b1-b4f9-1ed1f9645922",
+      "CreatedAt": "2021-08-01T09:45:06",
       "CurrencyID": "Spare-SPARE",
       "IP": "37.75.106.20",
       "Port": 9444
@@ -2006,436 +1865,103 @@
       "Port": 9444
     }
   ],
-  "Cactus-CAC": [
+  "Goji-XGJ": [
     {
-      "UUID": "4e871831-62a3-4b8c-809f-e9c1c82e0aec",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Cactus-CAC",
-      "IP": "99.250.170.201",
-      "Port": 11444
+      "UUID": "7deafaac-f45e-455c-a504-ffa3007b03d1",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Goji-XGJ",
+      "IP": "46.24.246.84",
+      "Port": 7444
     },
     {
-      "UUID": "d78e0c84-c459-45df-b8d1-01b91f5b8dd3",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Cactus-CAC",
-      "IP": "62.197.209.47",
-      "Port": 11444
+      "UUID": "94712b00-56ed-44e5-bc85-06323133cd86",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Goji-XGJ",
+      "IP": "77.228.123.119",
+      "Port": 7444
     },
     {
-      "UUID": "fe14cffe-12a9-4d8c-a063-2ec2064ff53f",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Cactus-CAC",
-      "IP": "123.112.241.26",
-      "Port": 11444
+      "UUID": "3877342a-3597-46d9-9871-d80e1aedad4f",
+      "CreatedAt": "2021-08-01T09:45:06",
+      "CurrencyID": "Goji-XGJ",
+      "IP": "58.229.108.2",
+      "Port": 7444
     },
     {
-      "UUID": "fc8eb86c-8390-4cbc-94db-b29f28826a5f",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Cactus-CAC",
-      "IP": "91.126.120.146",
-      "Port": 11444
-    },
-    {
-      "UUID": "0ce9779f-d618-406c-b32a-944aafb4b434",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Cactus-CAC",
-      "IP": "185.53.22.15",
-      "Port": 11444
-    },
-    {
-      "UUID": "845aa2a7-e439-465c-a6ff-577a89cecd6a",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Cactus-CAC",
-      "IP": "94.3.32.187",
-      "Port": 11444
-    },
-    {
-      "UUID": "f72ddf11-ea7a-4f63-a303-9afa83a611cd",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Cactus-CAC",
-      "IP": "66.51.101.106",
-      "Port": 11444
-    },
-    {
-      "UUID": "017cba6b-1a66-4dbc-a40f-d221e60e4261",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Cactus-CAC",
-      "IP": "61.90.110.110",
-      "Port": 11444
-    },
-    {
-      "UUID": "ef253ea1-2eff-48d3-bcc2-82305de9dfd2",
-      "CreatedAt": "2021-08-01T07:41:39",
-      "CurrencyID": "Cactus-CAC",
-      "IP": "2.28.2.229",
-      "Port": 11444
-    },
-    {
-      "UUID": "2bd3a157-9804-498c-bf72-5c74d7fe1724",
+      "UUID": "3bb4e4ea-b4fc-4442-995b-ba24ad28e120",
       "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Cactus-CAC",
-      "IP": "206.116.176.9",
-      "Port": 11444
+      "CurrencyID": "Goji-XGJ",
+      "IP": "42.2.169.222",
+      "Port": 7444
     },
     {
-      "UUID": "2b59d479-d38c-48b3-82f3-e6d744bcfe28",
+      "UUID": "e1f7dd1c-b678-48cb-b8ac-a6c8fa61ae76",
       "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Cactus-CAC",
-      "IP": "65.21.32.241",
-      "Port": 11444
+      "CurrencyID": "Goji-XGJ",
+      "IP": "88.3.137.47",
+      "Port": 7444
     },
     {
-      "UUID": "18cbcbff-3725-431d-b75d-ba16cf808e7d",
+      "UUID": "ec2a6933-0447-4b2e-9549-dbab1680c9ca",
       "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Cactus-CAC",
-      "IP": "83.57.127.27",
-      "Port": 11444
+      "CurrencyID": "Goji-XGJ",
+      "IP": "71.192.56.163",
+      "Port": 9444
     },
     {
-      "UUID": "1e7a8e60-b407-4678-a35c-c081fd3048c2",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Cactus-CAC",
-      "IP": "98.45.1.159",
-      "Port": 11444
-    },
-    {
-      "UUID": "d8abb724-a9b4-46c0-a9fa-3bda2826953b",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Cactus-CAC",
-      "IP": "71.176.77.61",
-      "Port": 11444
-    },
-    {
-      "UUID": "053732c1-d9a4-4ea9-b56d-d14612d09b91",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Cactus-CAC",
-      "IP": "118.69.64.210",
-      "Port": 11444
-    },
-    {
-      "UUID": "282f22f5-be26-4329-8931-20c8fd274dce",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Cactus-CAC",
-      "IP": "24.6.10.156",
-      "Port": 11444
-    },
-    {
-      "UUID": "db39499f-cfab-4322-8df0-0d4b496147ab",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Cactus-CAC",
-      "IP": "46.11.51.27",
-      "Port": 11444
-    }
-  ],
-  "Socks-SOCK": [
-    {
-      "UUID": "1c5dc8b0-e591-4d3d-9dbf-e8921d70231a",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "37.116.102.236",
-      "Port": 58444
-    },
-    {
-      "UUID": "cea0b7a8-fb2b-4697-967f-d351081c5b38",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "39.120.60.133",
-      "Port": 58444
-    },
-    {
-      "UUID": "42a91284-868b-4961-b863-d9b138c9243c",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "116.111.119.193",
-      "Port": 58444
-    },
-    {
-      "UUID": "c3eac1c0-3370-45fb-bbcc-9585a750301c",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "80.108.108.220",
-      "Port": 58444
-    },
-    {
-      "UUID": "e2bd4df3-04e9-463a-8655-820167d30319",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "51.7.32.4",
-      "Port": 58444
-    },
-    {
-      "UUID": "317b970b-4892-4a65-a6df-cfad17ce80bb",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "82.73.239.148",
-      "Port": 58444
-    },
-    {
-      "UUID": "2a58f3da-46b3-4ed4-a341-ac9927e08542",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "155.133.91.46",
-      "Port": 58444
-    },
-    {
-      "UUID": "dbc1166a-ebc9-44a4-9ddd-a8814b6ab838",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "81.190.212.248",
-      "Port": 58444
-    },
-    {
-      "UUID": "7523d9dd-2e63-4bf9-91b0-be67ff858d63",
-      "CreatedAt": "2021-08-01T09:35:23",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "89.79.125.66",
-      "Port": 58444
-    },
-    {
-      "UUID": "7fcc1fdc-1c4e-42aa-bb6a-9bebe67fdc08",
-      "CreatedAt": "2021-08-01T09:35:23",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "86.111.132.169",
-      "Port": 58444
-    },
-    {
-      "UUID": "d2d6ac8d-7c8d-4bcc-8077-5d2887798848",
-      "CreatedAt": "2021-08-01T09:35:23",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "113.189.38.246",
-      "Port": 58444
-    },
-    {
-      "UUID": "612fc85e-1536-4391-9ca7-a593160b5712",
-      "CreatedAt": "2021-08-01T09:35:23",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "77.23.73.233",
-      "Port": 58444
-    },
-    {
-      "UUID": "15f6566d-1792-42ef-ac80-ef5c591aa48e",
-      "CreatedAt": "2021-08-01T07:41:39",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "24.226.75.91",
-      "Port": 58444
-    },
-    {
-      "UUID": "dafe21b5-caf7-4b93-9512-117cc2498beb",
-      "CreatedAt": "2021-08-01T07:41:39",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "83.240.8.136",
-      "Port": 58444
-    },
-    {
-      "UUID": "96318203-f7c9-4777-86a9-a81fc92e7a21",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "121.189.184.194",
-      "Port": 58444
-    },
-    {
-      "UUID": "32ee27bd-b195-4f1e-8eed-78b11dc3949c",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "95.136.56.103",
-      "Port": 58444
-    },
-    {
-      "UUID": "db338eff-0fff-48d0-b3b3-4f649bde1094",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "101.127.182.161",
-      "Port": 58444
-    },
-    {
-      "UUID": "ba872aff-88cd-4141-bebd-b9f20de8fb9f",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "97.75.133.152",
-      "Port": 58444
-    },
-    {
-      "UUID": "20832c5a-2b5c-4f2c-a755-946d0010e6b4",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "14.243.23.67",
-      "Port": 58444
-    },
-    {
-      "UUID": "b35b26c6-f8cf-4d4a-ab32-283ab3e8b10c",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "177.229.72.58",
-      "Port": 58444
-    },
-    {
-      "UUID": "b82a0f1f-99ef-458f-9c37-85039d8b6c47",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "62.224.62.229",
-      "Port": 58444
-    },
-    {
-      "UUID": "c3a0625d-ff45-434a-9bbe-b5056141447f",
+      "UUID": "43086ac4-9bcc-45fc-8816-d9c6de81bad6",
       "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "85.84.55.21",
-      "Port": 58444
+      "CurrencyID": "Goji-XGJ",
+      "IP": "178.47.111.16",
+      "Port": 7444
     },
     {
-      "UUID": "1fe3a041-fe2e-40a1-b9c9-d6979b9d3264",
+      "UUID": "5898ae83-f467-4c34-bb1b-482725ae876e",
       "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "93.95.99.78",
-      "Port": 58444
+      "CurrencyID": "Goji-XGJ",
+      "IP": "69.207.130.136",
+      "Port": 7444
     },
     {
-      "UUID": "513dd600-9965-4a4f-9eaa-9abc9c4c5b64",
+      "UUID": "6ac04370-f3aa-4a8a-bfac-53f99bfced1f",
       "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "81.107.165.83",
-      "Port": 58444
-    },
-    {
-      "UUID": "4dbafcd5-bb78-4ecf-940f-d8ef91dab699",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "163.172.223.49",
-      "Port": 58444
-    },
-    {
-      "UUID": "16e69b04-e0d6-4743-ac5d-cbc1b7aa068c",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "91.38.119.209",
-      "Port": 58444
-    },
-    {
-      "UUID": "3a6ed8e1-a6a4-4b9d-8bd8-a1bef045dcf9",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "88.69.36.170",
-      "Port": 58444
-    },
-    {
-      "UUID": "8631ea79-4296-4251-b704-522a4119c366",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "93.51.77.74",
-      "Port": 58444
-    },
-    {
-      "UUID": "e928b6a6-681c-4db0-b2b4-014b45d46332",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Socks-SOCK",
-      "IP": "86.182.162.201",
-      "Port": 58444
-    }
-  ],
-  "Flora-XFL": [
-    {
-      "UUID": "e134edd5-6fdc-4ab6-9096-222f6f7ce3df",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Flora-XFL",
-      "IP": "195.36.10.19",
-      "Port": 18644
-    },
-    {
-      "UUID": "e4e803e1-2dd3-421d-80c8-79632834c84c",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Flora-XFL",
-      "IP": "24.47.209.240",
-      "Port": 18644
-    },
-    {
-      "UUID": "5cfbca77-a4fb-445c-94eb-b3c3796d3791",
-      "CreatedAt": "2021-08-01T09:44:47",
-      "CurrencyID": "Flora-XFL",
-      "IP": "77.238.148.65",
-      "Port": 18644
-    },
-    {
-      "UUID": "93b78e65-677b-49aa-9247-4fe0d55a750b",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Flora-XFL",
-      "IP": "73.150.163.222",
-      "Port": 18644
-    },
-    {
-      "UUID": "ad07c649-f2cf-47d5-84d5-917bcd1cb334",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Flora-XFL",
-      "IP": "77.229.123.48",
-      "Port": 18644
-    },
-    {
-      "UUID": "cee0af31-c2eb-4ed7-bf1a-91de2317d30a",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Flora-XFL",
-      "IP": "31.201.229.9",
-      "Port": 18644
-    },
-    {
-      "UUID": "f596ac68-d0ca-4ac8-99dc-ead07e314e4d",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Flora-XFL",
-      "IP": "5.167.103.239",
-      "Port": 18644
-    },
-    {
-      "UUID": "055a0d59-d8b5-4e04-915b-86c624df1cd9",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Flora-XFL",
-      "IP": "37.183.105.197",
-      "Port": 18644
-    },
-    {
-      "UUID": "230ee239-2d85-4402-a81d-b9648b618c19",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Flora-XFL",
-      "IP": "46.1.171.143",
-      "Port": 18644
-    },
-    {
-      "UUID": "9c616809-3885-4130-af6a-ec4915f2a329",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Flora-XFL",
-      "IP": "176.124.168.80",
-      "Port": 18644
+      "CurrencyID": "Goji-XGJ",
+      "IP": "181.92.34.85",
+      "Port": 7444
     }
   ],
   "ChainGreen-CGN": [
     {
-      "UUID": "1688a403-eaea-4d90-814c-8d7f5c180cdf",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "ChainGreen-CGN",
-      "IP": "46.33.241.28",
-      "Port": 8744
-    },
-    {
-      "UUID": "5e55867d-90f4-4ffa-a6b2-ca8b8a4ee645",
-      "CreatedAt": "2021-08-01T09:44:48",
+      "UUID": "0556d61d-6892-4ca3-89d1-a386820549c2",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "ChainGreen-CGN",
       "IP": "186.19.31.52",
       "Port": 8744
     },
     {
-      "UUID": "9d0c5c0a-ec9c-49d8-904a-fa684d350227",
-      "CreatedAt": "2021-08-01T09:44:48",
+      "UUID": "e722d747-62f7-447f-9a51-0d11a6da9697",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "ChainGreen-CGN",
+      "IP": "46.33.241.28",
+      "Port": 8744
+    },
+    {
+      "UUID": "9fea89e3-5cad-44f2-b942-04a239afc79b",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "ChainGreen-CGN",
       "IP": "24.130.208.186",
       "Port": 8744
     },
     {
-      "UUID": "cebf3f8e-3ca7-43de-ad34-edaea88ef133",
-      "CreatedAt": "2021-08-01T09:44:48",
+      "UUID": "cc335806-127c-4a8c-bf56-bdb8c4aced7f",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "ChainGreen-CGN",
       "IP": "150.117.11.110",
       "Port": 8744
     },
     {
-      "UUID": "3e22a722-c19a-4c40-b90e-1188aec94840",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "88307121-8d1a-4f22-8aae-4030b34f3724",
+      "CreatedAt": "2021-08-01T09:45:08",
       "CurrencyID": "ChainGreen-CGN",
       "IP": "201.199.126.180",
       "Port": 8744
@@ -2513,59 +2039,59 @@
   ],
   "Avocado-AVO": [
     {
-      "UUID": "f3ac1955-2bd6-4833-bb96-3d26583bba01",
-      "CreatedAt": "2021-08-01T09:44:48",
+      "UUID": "40a41cda-d691-4f79-a295-32867f81f2ff",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Avocado-AVO",
       "IP": "121.98.11.44",
       "Port": 6865
     },
     {
-      "UUID": "9269e83f-b013-4c73-ba53-1acdfe17f451",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Avocado-AVO",
-      "IP": "104.136.88.241",
-      "Port": 6865
-    },
-    {
-      "UUID": "742f0ddd-056a-41ac-b7fe-00102d46c2fd",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Avocado-AVO",
-      "IP": "72.201.192.233",
-      "Port": 6865
-    },
-    {
-      "UUID": "4b406a6e-61da-4ed4-9e34-9313868c504c",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Avocado-AVO",
-      "IP": "62.197.209.47",
-      "Port": 6865
-    },
-    {
-      "UUID": "ab5f1afe-ec7d-4b99-b9b3-1be3e57a5cb1",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Avocado-AVO",
-      "IP": "69.112.96.212",
-      "Port": 6865
-    },
-    {
-      "UUID": "7b87b8f4-5d48-4861-9cbd-8c2accebf7b2",
-      "CreatedAt": "2021-08-01T09:44:48",
-      "CurrencyID": "Avocado-AVO",
-      "IP": "154.66.184.61",
-      "Port": 6865
-    },
-    {
-      "UUID": "68dba26b-6661-4a0b-abff-738892c4597b",
-      "CreatedAt": "2021-08-01T09:44:48",
+      "UUID": "1a66b4c8-7f87-4557-a568-ad9b51c511f0",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Avocado-AVO",
       "IP": "91.211.195.46",
       "Port": 6865
     },
     {
-      "UUID": "745d3f5f-e9be-44fb-a11a-84a9baa05aec",
-      "CreatedAt": "2021-08-01T09:44:47",
+      "UUID": "9caa94e9-d174-40a3-8248-566828aae350",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Avocado-AVO",
+      "IP": "69.112.96.212",
+      "Port": 6865
+    },
+    {
+      "UUID": "b19ea5fb-20c9-4d45-ba69-596f34a3feeb",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Avocado-AVO",
+      "IP": "62.197.209.47",
+      "Port": 6865
+    },
+    {
+      "UUID": "d8e43952-30e4-4585-b8fb-54c3f8a1d593",
+      "CreatedAt": "2021-08-01T09:45:10",
       "CurrencyID": "Avocado-AVO",
       "IP": "163.58.45.2",
+      "Port": 6865
+    },
+    {
+      "UUID": "a62ea6d6-3845-4936-94c1-c9a1a7daa55f",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Avocado-AVO",
+      "IP": "154.66.184.61",
+      "Port": 6865
+    },
+    {
+      "UUID": "abb14afe-0299-49ce-a926-1fe4a56924c5",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Avocado-AVO",
+      "IP": "72.201.192.233",
+      "Port": 6865
+    },
+    {
+      "UUID": "86645abd-998f-4d09-be27-c0e631e343f7",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Avocado-AVO",
+      "IP": "104.136.88.241",
       "Port": 6865
     },
     {
@@ -2576,31 +2102,17 @@
       "Port": 6865
     },
     {
-      "UUID": "b3cc4155-f095-4111-8a2f-127d285232eb",
+      "UUID": "3505c8a7-6a25-446b-87c1-4e25feabdbdd",
       "CreatedAt": "2021-07-23T17:06:32",
       "CurrencyID": "Avocado-AVO",
-      "IP": "179.83.205.25",
+      "IP": "68.149.128.144",
       "Port": 6865
     },
     {
-      "UUID": "9d4a391a-090c-4a6c-86ea-ba4e13dd8d7d",
+      "UUID": "ef22d43a-7fba-49b0-9843-6ffbb3b4d056",
       "CreatedAt": "2021-07-23T17:06:32",
       "CurrencyID": "Avocado-AVO",
-      "IP": "157.90.186.219",
-      "Port": 6865
-    },
-    {
-      "UUID": "9c481a31-616e-45cc-8e53-1e71f8bbe382",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Avocado-AVO",
-      "IP": "109.111.142.175",
-      "Port": 6865
-    },
-    {
-      "UUID": "8c49a207-54a1-47df-aa7a-0c8783405023",
-      "CreatedAt": "2021-07-23T17:06:32",
-      "CurrencyID": "Avocado-AVO",
-      "IP": "27.74.169.252",
+      "IP": "188.251.243.57",
       "Port": 6865
     },
     {
@@ -2611,10 +2123,10 @@
       "Port": 6865
     },
     {
-      "UUID": "3505c8a7-6a25-446b-87c1-4e25feabdbdd",
+      "UUID": "8c49a207-54a1-47df-aa7a-0c8783405023",
       "CreatedAt": "2021-07-23T17:06:32",
       "CurrencyID": "Avocado-AVO",
-      "IP": "68.149.128.144",
+      "IP": "27.74.169.252",
       "Port": 6865
     },
     {
@@ -2625,10 +2137,38 @@
       "Port": 6865
     },
     {
-      "UUID": "ef22d43a-7fba-49b0-9843-6ffbb3b4d056",
+      "UUID": "9c481a31-616e-45cc-8e53-1e71f8bbe382",
       "CreatedAt": "2021-07-23T17:06:32",
       "CurrencyID": "Avocado-AVO",
-      "IP": "188.251.243.57",
+      "IP": "109.111.142.175",
+      "Port": 6865
+    },
+    {
+      "UUID": "9d4a391a-090c-4a6c-86ea-ba4e13dd8d7d",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Avocado-AVO",
+      "IP": "157.90.186.219",
+      "Port": 6865
+    },
+    {
+      "UUID": "b3cc4155-f095-4111-8a2f-127d285232eb",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Avocado-AVO",
+      "IP": "179.83.205.25",
+      "Port": 6865
+    },
+    {
+      "UUID": "ec1a7b62-6cc3-4f73-b36d-402b0b3626f3",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Avocado-AVO",
+      "IP": "159.180.52.255",
+      "Port": 6865
+    },
+    {
+      "UUID": "dee4660e-b50b-464d-9347-fd1ffff2bb7b",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Avocado-AVO",
+      "IP": "79.40.137.162",
       "Port": 6865
     },
     {
@@ -2653,25 +2193,485 @@
       "Port": 6865
     },
     {
-      "UUID": "dee4660e-b50b-464d-9347-fd1ffff2bb7b",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Avocado-AVO",
-      "IP": "79.40.137.162",
-      "Port": 6865
-    },
-    {
-      "UUID": "ec1a7b62-6cc3-4f73-b36d-402b0b3626f3",
-      "CreatedAt": "2021-07-21T19:49:18",
-      "CurrencyID": "Avocado-AVO",
-      "IP": "159.180.52.255",
-      "Port": 6865
-    },
-    {
       "UUID": "f808e82c-516f-4188-938b-68e7d37c4501",
       "CreatedAt": "2021-07-21T19:49:18",
       "CurrencyID": "Avocado-AVO",
       "IP": "181.47.40.157",
       "Port": 6865
+    }
+  ],
+  "Kale-XKA": [
+    {
+      "UUID": "8c986a04-72e5-46ff-bf2e-8372fd96a01d",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Kale-XKA",
+      "IP": "223.134.74.79",
+      "Port": 6333
+    },
+    {
+      "UUID": "4d15d08c-30c8-4404-8a92-8d472608da8c",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Kale-XKA",
+      "IP": "24.251.245.142",
+      "Port": 6333
+    },
+    {
+      "UUID": "aa0fcfe5-072a-40c0-ad37-682331ec85ca",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Kale-XKA",
+      "IP": "181.133.52.87",
+      "Port": 6333
+    },
+    {
+      "UUID": "59258105-4b07-4fac-82fc-b0bf51b4bc53",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Kale-XKA",
+      "IP": "89.134.66.131",
+      "Port": 6333
+    },
+    {
+      "UUID": "bc743cd8-e70b-4e6c-a2dc-d03d7d9b963f",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Kale-XKA",
+      "IP": "2.94.43.74",
+      "Port": 6333
+    },
+    {
+      "UUID": "b09f392f-13d1-4ea8-80b6-cc40e0910655",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Kale-XKA",
+      "IP": "46.8.174.80",
+      "Port": 6333
+    },
+    {
+      "UUID": "a98359dc-6812-4b28-b29b-2efaca33a2e7",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Kale-XKA",
+      "IP": "86.154.155.62",
+      "Port": 6333
+    },
+    {
+      "UUID": "f563942c-7d67-4145-b950-9c807affffed",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Kale-XKA",
+      "IP": "58.7.217.137",
+      "Port": 6333
+    },
+    {
+      "UUID": "d5349682-2044-4b1c-8311-a66d7e9b7021",
+      "CreatedAt": "2021-08-01T07:41:39",
+      "CurrencyID": "Kale-XKA",
+      "IP": "79.116.4.112",
+      "Port": 6333
+    },
+    {
+      "UUID": "c1af12c5-8d60-483d-994b-63390ef54b16",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Kale-XKA",
+      "IP": "79.116.6.171",
+      "Port": 6333
+    },
+    {
+      "UUID": "b51083ca-53b1-49e0-ac3e-b25c60e42e5f",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Kale-XKA",
+      "IP": "184.82.225.148",
+      "Port": 6333
+    },
+    {
+      "UUID": "c404f049-0b4f-4c22-ab5f-a2fbb2ad9cc2",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Kale-XKA",
+      "IP": "171.244.185.191",
+      "Port": 6333
+    },
+    {
+      "UUID": "9a3d6ca7-8b6f-41d7-bf05-64441c9aee60",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Kale-XKA",
+      "IP": "87.27.185.65",
+      "Port": 6333
+    },
+    {
+      "UUID": "601b240f-b221-497a-93d9-328b628069ac",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Kale-XKA",
+      "IP": "71.127.170.108",
+      "Port": 6333
+    },
+    {
+      "UUID": "3bd0bdca-1e4a-422d-9a84-8064b8db3a17",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Kale-XKA",
+      "IP": "76.120.155.174",
+      "Port": 6333
+    },
+    {
+      "UUID": "13eb5168-1e22-4d0f-9415-12e481fe3bd9",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Kale-XKA",
+      "IP": "24.229.22.56",
+      "Port": 6333
+    },
+    {
+      "UUID": "f02d94e0-484d-489d-ae3e-fc70e701398d",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Kale-XKA",
+      "IP": "27.74.243.69",
+      "Port": 6333
+    },
+    {
+      "UUID": "2f7e4064-0f71-4f67-9ac7-d9cd57f920d5",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Kale-XKA",
+      "IP": "85.84.55.21",
+      "Port": 6333
+    },
+    {
+      "UUID": "6e002c5e-1d40-48a1-8cfe-7853b4643404",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Kale-XKA",
+      "IP": "89.233.159.231",
+      "Port": 6333
+    },
+    {
+      "UUID": "e496e9f4-4a32-49c0-b14b-67c4da505c56",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Kale-XKA",
+      "IP": "198.46.210.171",
+      "Port": 6333
+    },
+    {
+      "UUID": "1d47fd4a-308e-4d87-8d1f-ea5f29a7d912",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Kale-XKA",
+      "IP": "8.2.186.52",
+      "Port": 6333
+    },
+    {
+      "UUID": "147c0f0a-948a-4497-9fe2-f0d1ae7735e8",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Kale-XKA",
+      "IP": "172.94.12.146",
+      "Port": 6333
+    },
+    {
+      "UUID": "c1203151-5e0c-4a4b-9c5f-758dadba7485",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Kale-XKA",
+      "IP": "47.186.2.38",
+      "Port": 6333
+    },
+    {
+      "UUID": "33fe0342-e57f-497f-80bb-91320fb55d87",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Kale-XKA",
+      "IP": "86.155.123.253",
+      "Port": 6333
+    }
+  ],
+  "Covid-COV": [
+    {
+      "UUID": "d9a472a6-aeef-4241-a177-f5a6b160e9de",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Covid-COV",
+      "IP": "68.149.128.144",
+      "Port": 18120
+    },
+    {
+      "UUID": "5588b7ae-581e-4303-adda-5a56f5025813",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Covid-COV",
+      "IP": "37.223.88.10",
+      "Port": 18120
+    },
+    {
+      "UUID": "c1ca1b83-eca9-4834-9c7a-b2fa30c37d08",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Covid-COV",
+      "IP": "213.195.114.147",
+      "Port": 18120
+    },
+    {
+      "UUID": "b4a6f22b-65b8-446c-8c00-c2949441df83",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Covid-COV",
+      "IP": "155.133.91.30",
+      "Port": 18120
+    },
+    {
+      "UUID": "2f2c29ad-0ff4-4072-a0f3-e3bd67e7fefe",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Covid-COV",
+      "IP": "106.104.194.55",
+      "Port": 18120
+    },
+    {
+      "UUID": "1743af56-78af-4eb3-8b81-74992050f01a",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Covid-COV",
+      "IP": "66.252.197.9",
+      "Port": 18120
+    },
+    {
+      "UUID": "14ad9474-98b5-42ae-9a58-e5830bc47d7c",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Covid-COV",
+      "IP": "171.232.188.38",
+      "Port": 18120
+    },
+    {
+      "UUID": "401b83de-bfde-4949-a090-7569169eb943",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Covid-COV",
+      "IP": "51.7.32.4",
+      "Port": 18120
+    }
+  ],
+  "Seno-XSE": [
+    {
+      "UUID": "b94bcb0c-5575-4cec-97e2-153fa7901e1d",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Seno-XSE",
+      "IP": "107.129.89.76",
+      "Port": 18444
+    },
+    {
+      "UUID": "2ced15e5-9c50-4989-829c-9fbd9419d972",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Seno-XSE",
+      "IP": "109.184.219.73",
+      "Port": 18444
+    },
+    {
+      "UUID": "6884c2f5-aca6-4dfa-903b-0110f9df97ea",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Seno-XSE",
+      "IP": "84.145.54.219",
+      "Port": 18444
+    },
+    {
+      "UUID": "7c6fd739-922d-4120-8d9a-84554ecf7483",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Seno-XSE",
+      "IP": "142.234.80.72",
+      "Port": 18444
+    },
+    {
+      "UUID": "b05fc7bc-0d98-4869-affc-e183cdee35cd",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Seno-XSE",
+      "IP": "85.84.55.21",
+      "Port": 18444
+    },
+    {
+      "UUID": "f11412ac-93d0-4dfb-8373-20dc95798ca4",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "Seno-XSE",
+      "IP": "217.21.59.42",
+      "Port": 18444
+    },
+    {
+      "UUID": "54f2ab61-c972-408a-9d35-bb09038daded",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Seno-XSE",
+      "IP": "78.58.112.76",
+      "Port": 18444
+    },
+    {
+      "UUID": "572dd26f-91f9-4f85-ba34-b6a01a86ceff",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Seno-XSE",
+      "IP": "79.101.130.91",
+      "Port": 18444
+    },
+    {
+      "UUID": "cca58a29-ce62-4817-a6ce-fcebfe71c1a3",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "Seno-XSE",
+      "IP": "50.5.59.92",
+      "Port": 18444
+    }
+  ],
+  "HDDcoin-HDD": [
+    {
+      "UUID": "7c538641-f616-4599-ba89-16dfe79f0ea8",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "HDDcoin-HDD",
+      "IP": "66.229.5.111",
+      "Port": 28444
+    },
+    {
+      "UUID": "11712123-760e-4ee3-b58b-2aa1f3ab8c01",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "HDDcoin-HDD",
+      "IP": "184.147.69.11",
+      "Port": 28444
+    },
+    {
+      "UUID": "2b6f2595-11e4-4309-a758-e36fbe5daba9",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "HDDcoin-HDD",
+      "IP": "74.215.148.11",
+      "Port": 28444
+    },
+    {
+      "UUID": "81952ceb-484e-4913-85b7-b54ef68d12ee",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "HDDcoin-HDD",
+      "IP": "83.248.133.132",
+      "Port": 28444
+    },
+    {
+      "UUID": "f3c81811-f4e1-4443-b02f-2d066f1d36c0",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "HDDcoin-HDD",
+      "IP": "85.8.41.149",
+      "Port": 28444
+    },
+    {
+      "UUID": "2a139109-0067-4901-ae19-1f44e30410cd",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "HDDcoin-HDD",
+      "IP": "95.77.107.228",
+      "Port": 28444
+    },
+    {
+      "UUID": "e5273a5b-1c92-4d26-b4b6-f0b8f1a1273b",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "HDDcoin-HDD",
+      "IP": "92.167.21.31",
+      "Port": 28444
+    },
+    {
+      "UUID": "47236720-5292-4a4c-95ce-82b81b17b4c4",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "HDDcoin-HDD",
+      "IP": "66.41.159.172",
+      "Port": 28444
+    }
+  ],
+  "ChiaRose-XCR": [
+    {
+      "UUID": "0e965fc4-518b-4737-a256-569beb127d7d",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "ChiaRose-XCR",
+      "IP": "37.229.174.83",
+      "Port": 8520
+    },
+    {
+      "UUID": "59499e05-a27c-498d-b92a-fe2e0b304e3a",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "ChiaRose-XCR",
+      "IP": "87.175.61.232",
+      "Port": 8520
+    },
+    {
+      "UUID": "e59c9123-f8e2-4449-9a8f-4669124848c9",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "ChiaRose-XCR",
+      "IP": "213.248.151.124",
+      "Port": 8520
+    },
+    {
+      "UUID": "006ec17a-09d2-4cad-9537-9b17c0ee627c",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "ChiaRose-XCR",
+      "IP": "123.24.5.72",
+      "Port": 8520
+    },
+    {
+      "UUID": "2adbd334-a80a-41df-87a5-782536cffa1f",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "ChiaRose-XCR",
+      "IP": "203.204.219.69",
+      "Port": 8520
+    },
+    {
+      "UUID": "8ac74a2d-4306-42d1-b144-d2c1230c68ca",
+      "CreatedAt": "2021-07-23T17:06:32",
+      "CurrencyID": "ChiaRose-XCR",
+      "IP": "94.132.219.254",
+      "Port": 8520
+    },
+    {
+      "UUID": "44a0669c-d1b0-4031-9b12-307796fea13b",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "ChiaRose-XCR",
+      "IP": "87.8.236.220",
+      "Port": 8520
+    },
+    {
+      "UUID": "68cc7d92-57d1-49e6-b941-445a4272f86d",
+      "CreatedAt": "2021-07-21T19:49:18",
+      "CurrencyID": "ChiaRose-XCR",
+      "IP": "91.34.173.40",
+      "Port": 8520
+    }
+  ],
+  "Tad-TAD": [
+    {
+      "UUID": "0ce89f40-3b3c-441f-896d-1c3d8dce56cc",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Tad-TAD",
+      "IP": "47.61.254.75",
+      "Port": 4044
+    },
+    {
+      "UUID": "833fb35c-3309-4487-8c60-37a3bc9573d4",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Tad-TAD",
+      "IP": "31.202.4.147",
+      "Port": 4044
+    },
+    {
+      "UUID": "63ecdb6f-92b1-40af-84aa-ba7d12c2d1f1",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Tad-TAD",
+      "IP": "149.28.239.187",
+      "Port": 4044
+    },
+    {
+      "UUID": "b69dc96e-4366-40d1-98fd-d318f405defc",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Tad-TAD",
+      "IP": "201.191.96.29",
+      "Port": 4044
+    },
+    {
+      "UUID": "acc677cc-fc68-4f69-bc62-7011d03b5a03",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Tad-TAD",
+      "IP": "58.229.108.2",
+      "Port": 4044
+    },
+    {
+      "UUID": "2763e77d-40cd-4050-a306-2fea0b525779",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Tad-TAD",
+      "IP": "37.229.174.83",
+      "Port": 4044
+    },
+    {
+      "UUID": "f4a1552c-e475-4ad6-8ccc-9b208e72478d",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Tad-TAD",
+      "IP": "174.112.137.191",
+      "Port": 4044
+    },
+    {
+      "UUID": "4e35c0bf-f03d-4bd3-8321-ed1162b9592e",
+      "CreatedAt": "2021-08-01T09:45:10",
+      "CurrencyID": "Tad-TAD",
+      "IP": "68.47.68.134",
+      "Port": 4044
+    },
+    {
+      "UUID": "6812a139-03d9-490c-bb6f-b25b152f328c",
+      "CreatedAt": "2021-08-01T07:41:39",
+      "CurrencyID": "Tad-TAD",
+      "IP": "171.232.188.38",
+      "Port": 4044
     }
   ]
 }
