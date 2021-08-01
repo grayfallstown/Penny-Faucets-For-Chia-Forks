@@ -55,7 +55,7 @@ section{
 	    .then(response => response.json())
 	    .then(data => {
 			var forks = [];
-			forks.concat(Object.keys(data));
+			forks = forks.concat(Object.keys(data));
 			forks.sort();
 			forks.forEach((fork) => {
 				var forksDiv = document.getelementbyid("forks");
