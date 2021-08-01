@@ -99,7 +99,7 @@ section{
 					tbody.appendChild(tr);
 					["IP", "Port", "CreatedAt"].forEach((col) => {
 						var td = document.createElement("td");
-						td.innerText(peer[col]);
+						td.innerText = peer[col];
 						tr.appendChild(td);
 					})
 				});
