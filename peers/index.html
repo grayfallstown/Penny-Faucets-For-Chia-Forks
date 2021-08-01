@@ -1,6 +1,6 @@
 <html>
 <head>
-<style>
+<style type="text/css">
 body{
   background: -webkit-linear-gradient(left, #000, #333);
   background: linear-gradient(to right, #000, #222);
@@ -49,6 +49,10 @@ section{
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
 }
 </style>
+<script
+  src="https://code.jquery.com/jquery-3.6.0.slim.min.js"
+  integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI="
+  crossorigin="anonymous"></script>
 <script>
     window.onload = function () {
 		fetch("./peers-by-fork.json")
@@ -106,6 +110,10 @@ section{
 			});
 	    });
 	};
+	$(window).on("load resize ", function() {
+	var scrollWidth = $('.tbl-content').width() - $('.tbl-content table').width();
+	$('.tbl-header').css({'padding-right':scrollWidth});
+}).resize();
 </script>
 </head>
 <body>
