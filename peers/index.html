@@ -63,7 +63,7 @@ section{
 				forkSection.id = fork;
 				forksDiv.appendChild(forkSection);
 				var headline = document.createElement("h2");
-				headline.InnerText = fork;
+				headline.innerText = fork;
 				forkSection.appendChild(headline);
 				var tblHeader = document.createElement("div");
 				tblHeader.classes = ["btl-header"];
@@ -79,7 +79,7 @@ section{
 				table.appendChild(tr);
 				["Host", "Port", "LastConnection"].forEach((col) => {
 					var th = document.createElement("th");
-					th.InnerText = col;
+					th.innerText = col;
 					tr.appendChild(th);
 				});
 				
@@ -99,7 +99,7 @@ section{
 					tbody.appendChild(tr);
 					["IP", "Port", "CreatedAt"].forEach((col) => {
 						var td = document.createElement("td");
-						td.InnerText(peer[col]);
+						td.innerText(peer[col]);
 						tr.appendChild(td);
 					})
 				});
