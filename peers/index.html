@@ -61,6 +61,7 @@ section{
 				var forksDiv = document.getelementbyid("forks");
 				var forkSection = document.createElement(section);
 				forkSection.id = fork;
+				forksDiv.appendChild(forkSection);
 				var headline = document.createElement("h2");
 				headline.InnerText = fork;
 				forkSection.appendChild(headline);
