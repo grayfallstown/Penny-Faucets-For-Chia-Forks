@@ -58,7 +58,7 @@ section{
 			forks = forks.concat(Object.keys(data));
 			forks.sort();
 			forks.forEach((fork) => {
-				var forksDiv = document.getelementbyid("forks");
+				var forksDiv = document.getElementById("forks");
 				var forkSection = document.createElement(section);
 				forkSection.id = fork;
 				forksDiv.appendChild(forkSection);
