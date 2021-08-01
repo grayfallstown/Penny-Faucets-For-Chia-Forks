@@ -1,0 +1,67 @@
+<html>
+<head>
+
+
+<script>
+    window.onload = function () {
+		fetch("./peers-by-fork.json")
+	    .then(response => response.json())
+	    .then(data => {
+			var forks = [];
+			forks.concat(Object.keys());
+			forks.sort();
+			forks.forEach((fork) => {
+				var forksDiv = document.getelementbyid("forks");
+				var forkSection = document.createElement(section);
+				forkSection.id = fork;
+				var headline = document.createElement("h2");
+				headline.InnerText = fork;
+				forkSection.appendChild(headline);
+				var tblHeader = document.createELement("div");
+				tblHeader.classes = ["btl-header"];
+				forkSection.appendChild(tblHeader);
+				var table = document.createElement("table");
+				table.cellpadding="0";
+				table.cellspacing="0";
+				table.border="0";
+				tblHeader.appendChild(table);
+				var thead = document.createElement("thead");
+				table.appendChild(thead);
+				var tr = document.createElement("tr");
+				table.appendChild(tr);
+				["Host", "Port", "LastConnection"].forEach((col) => {
+					var th = document.createElement("th");
+					th.InnerText = col;
+					tr.appendChild(th);
+				});
+				
+				var tblContent = document.createElement("div");
+				tblContent.classes = ["tbl-content"];
+				forkSection.appendChild(tblContent);
+				var contentTable = document.createElement("table");
+				contentTable.cellpadding="0";
+				contentTable.cellspacing="0";
+				contentTable.border="0";
+				tblContent.appendChild(contentTable);
+				
+				var tbody = document.createElement("tbody");
+				contentTable.appendChild(tbody);
+				data[fork].forEach((peer) => {
+					var tr = document.createElement("tr");
+					tbody.appendChild(tr);
+					["IP", "Port", "CreatedAt"].forEach((col) => {
+						var td = document.createElement("td");
+						td.InnerText(peer[col]);
+						tr.appendChild(td);
+					})
+				});
+			});
+	    });
+	};
+</script>
+
+</head>
+<body>
+<div id="forks"></div>
+</body>
+</html>
