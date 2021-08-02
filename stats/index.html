@@ -43,17 +43,16 @@
                 type: 'line',
                 data: chartData,
                 options: {
-					min: 0
+					scales: {
+						min: 0
+					}
 				}
             };
 
-            setTimeout(() => {
-
-                var myChart = new Chart(
-                    document.getElementById(currencyID),
-                    config
-                );
-            }, 10);
+			var myChart = new Chart(
+				document.getElementById(currencyID),
+				config
+			);
         }
 
         function addCharts(json) {
