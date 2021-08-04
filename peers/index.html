@@ -52,6 +52,16 @@ section{
 }
 
 
+#anchors a {
+	text-decoration: none;
+	display: inline-block;
+	padding: 3px;
+	margin-right: 3px;
+}
+
+
+
+
 
 /* for custom scrollbar for webkit browser*/
 
@@ -82,7 +92,7 @@ section{
 				var anchorLink = document.createElement("a");
 				anchorLink.href="#" + fork;
 				anchorLink.innerText = fork;
-				anchorDiv.appendChild(anchorLink);
+				anchorsDiv.appendChild(anchorLink);
 				
 				var forksDiv = document.getElementById("forks");
 				var forkSection = document.createElement("section");
