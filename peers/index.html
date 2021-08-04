@@ -78,6 +78,12 @@ section{
 			forks = forks.concat(Object.keys(data));
 			forks.sort();
 			forks.forEach((fork) => {
+				var anchorsDiv = document.getElementById("anchors");
+				var anchorLink = document.createElement("a");
+				anchorLink.href="#" + fork;
+				anchorLink.innerText = fork;
+				anchorDiv.appendChild(anchorLink);
+				
 				var forksDiv = document.getElementById("forks");
 				var forkSection = document.createElement("section");
 				forkSection.id = fork;
@@ -133,6 +139,7 @@ section{
 </script>
 </head>
 <body>
+<div id="anchors"></div>
 <div id="forks"></div>
 </body>
 </html>
