@@ -135,7 +135,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			});
 			setTimeout(function() {
 				if (location.hash) {
-					document.getElementById(location.hash).scrollIntoView();
+					document.getElementById(location.hash.replace("#", "")).scrollIntoView();
 				}
 			}, 1);
 	    });
