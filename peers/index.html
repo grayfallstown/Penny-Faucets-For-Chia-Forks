@@ -133,6 +133,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					})
 				});
 			});
+			setTimeout(function() {
+				if (location.hash) {
+					document.getElementById(location.hash).scrollIntoView();
+				}
+			}, 1);
 	    });
 	};
 	$(window).on("load resize ", function() {
