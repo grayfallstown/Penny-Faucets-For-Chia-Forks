@@ -126,7 +126,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     window.onload = function () {
 	
 		fetch("./forks.txt")
-		.then(response => response.split("\n"))
+		.then(response => response.text().split("\n"))
 	    .then(forks => {
 			forks.sort();
 			forks.forEach((fork) => {
