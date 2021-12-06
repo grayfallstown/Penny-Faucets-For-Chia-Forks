@@ -115,11 +115,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		.then(response => response.text().split("\n"))
 	    .then(peers => {
 			peers = peers.split("\n");
-			forkDiv.innerHTML = '';
+			forksDiv.innerHTML = '';
 			peers.ForEach((peer) => {
 				var span = document.createElement("span");
 				span.innerText = peer;
-				forkDiv.appendChild(peer);
+				forksDiv.appendChild(peer);
 			});
 		});
 	}
