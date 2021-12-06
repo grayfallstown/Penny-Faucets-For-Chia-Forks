@@ -136,10 +136,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				var anchorLink = document.createElement("a");
 				anchorLink.href="#" + fork;
 				anchorLink.innerText = fork;
+				anchorLink.onclick = () => LoadPeers(fork);
 				anchorsDiv.appendChild(anchorLink);
 			});
 			
 		});
+		
+		setTimeout(function() {
+			if (location.hash) {
+				LoadPeers(location.hash.replace("#", ""));
+			}
+		}, 1);
 		
 	
 	
@@ -212,9 +219,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		*/
 	};
 	$(window).on("load resize ", function() {
-	var scrollWidth = $('.tbl-content').width() - $('.tbl-content table').width();
-	$('.tbl-header').css({'padding-right':scrollWidth});
-}).resize();
+		var scrollWidth = $('.tbl-content').width() - $('.tbl-content table').width();
+		$('.tbl-header').css({'padding-right':scrollWidth});
+	}).resize();
 </script>
 </head>
 <body>
