@@ -106,9 +106,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					var anchorLink = document.createElement("a");
 					anchorLink.href="#" + fork;
 					anchorLink.innerText = fork;
-					anchorLink.onclick = () => LoadPeers(fork);				
+					anchorLink.onclick = () => LoadPeers(fork);		
+					anchorsDiv.appendChild(anchorLink);		
 				}
-				anchorsDiv.appendChild(anchorLink);
 			});
 			
 		});
