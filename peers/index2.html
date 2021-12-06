@@ -82,9 +82,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			peers = peers.split("\n");
 			forksDiv.innerHTML = '';
 			peers.forEach((peer) => {
-				var span = document.createElement("span");
-				span.innerText = peer;
-				forksDiv.appendChild(span);
+				var div = document.createElement("div");
+				div.innerText = peer;
+				forksDiv.appendChild(div);
 			});
 		});
 	}
