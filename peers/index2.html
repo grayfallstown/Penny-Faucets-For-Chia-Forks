@@ -112,7 +112,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		forkDiv.innerHTML = 'loading';
 		
 		fetch("./" + fork + ".txt")
-		.then(response => response.split("\n"))
+		.then(response => response.text().split("\n"))
 	    .then(peers => {
 			forkDiv.innerHTML = '';
 			peers.ForEach((peer) => {
