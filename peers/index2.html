@@ -81,7 +81,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	    .then(peers => {
 			peers = peers.split("\n");
 			forksDiv.innerHTML = '';
-			peers.ForEach((peer) => {
+			peers.forEach((peer) => {
 				var span = document.createElement("span");
 				span.innerText = peer;
 				forksDiv.appendChild(peer);
