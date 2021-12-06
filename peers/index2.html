@@ -114,6 +114,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		fetch("./" + fork + ".txt")
 		.then(response => response.text().split("\n"))
 	    .then(peers => {
+			peers = peers.split("\n");
 			forkDiv.innerHTML = '';
 			peers.ForEach((peer) => {
 				var span = document.createElement("span");
@@ -126,8 +127,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     window.onload = function () {
 	
 		fetch("./forks.txt")
-		.then(response => response.text().split("\n"))
+		.then(response => response.text())
 	    .then(forks => {
+			forks = forks.split("\n");
 			forks.sort();
 			forks.forEach((fork) => {
 				var anchorsDiv = document.getElementById("anchors");
