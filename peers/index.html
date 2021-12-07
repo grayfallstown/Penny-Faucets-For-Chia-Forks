@@ -9,37 +9,6 @@ h2{
   text-align: center;
   margin-bottom: 15px;
 }
-table{
-  width:100%;
-  table-layout: fixed;
-}
-.tbl-header{
-  background-color: rgba(255,255,255,0.3);
- }
-.tbl-content{
-  height:300px;
-  overflow-x:auto;
-  margin-top: 0px;
-  border: 1px solid rgba(255,255,255,0.3);
-}
-th{
-  padding: 20px 15px;
-  text-align: left;
-  font-weight: 500;
-  font-size: 12px;
-  color: #fff;
-  text-transform: uppercase;
-}
-td{
-  padding: 15px;
-  text-align: left;
-  vertical-align:middle;
-  font-weight: 300;
-  font-size: 12px;
-  color: #fff;
-  border-bottom: solid 1px rgba(255,255,255,0.1);
-}
-
 body{
   background: -webkit-linear-gradient(left, #000, #333);
   background: linear-gradient(to right, #000, #222);
@@ -93,6 +62,10 @@ header a {
 	margin-top: 100px;
 }
 
+#peers {
+	margin-top: 20px;
+}
+
 </style>
 
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -101,82 +74,52 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5Z73XXD');</script>
-<script
-  src="https://code.jquery.com/jquery-3.6.0.slim.min.js"
-  integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI="
-  crossorigin="anonymous"></script>
 <script>
+
+	function LoadPeers(fork) {
+		var forksDiv = document.getElementById("peers");
+		forksDiv.innerHTML = 'loading ...';
+		
+		fetch("./" + fork + ".txt")
+		.then(response => response.text())
+	    .then(peers => {
+			peers = peers.split("\n");
+			forksDiv.innerHTML = '';
+			peers.forEach((peer) => {
+				var div = document.createElement("div");
+				div.innerText = peer;
+				forksDiv.appendChild(div);
+			});
+		});
+	}
+
     window.onload = function () {
-		fetch("./peers-by-fork.json")
-	    .then(response => response.json())
-	    .then(data => {
-			var forks = [];
-			forks = forks.concat(Object.keys(data));
+	
+		fetch("./forks.txt")
+		.then(response => response.text())
+	    .then(forks => {
+			forks = forks.split("\n");
 			forks.sort();
 			forks.forEach((fork) => {
-				var anchorsDiv = document.getElementById("anchors");
-				var anchorLink = document.createElement("a");
-				anchorLink.href="#" + fork;
-				anchorLink.innerText = fork;
-				anchorsDiv.appendChild(anchorLink);
-				
-				var forksDiv = document.getElementById("forks");
-				var forkSection = document.createElement("section");
-				forkSection.id = fork;
-				forksDiv.appendChild(forkSection);
-				var headline = document.createElement("h2");
-				headline.innerText = fork;
-				forkSection.appendChild(headline);
-				var tblHeader = document.createElement("div");
-				tblHeader.classes = ["btl-header"];
-				forkSection.appendChild(tblHeader);
-				var table = document.createElement("table");
-				table.cellpadding="0";
-				table.cellspacing="0";
-				table.border="0";
-				tblHeader.appendChild(table);
-				var thead = document.createElement("thead");
-				table.appendChild(thead);
-				var tr = document.createElement("tr");
-				table.appendChild(tr);
-				["Host", "Port", "LastConnection"].forEach((col) => {
-					var th = document.createElement("th");
-					th.innerText = col;
-					tr.appendChild(th);
-				});
-				
-				var tblContent = document.createElement("div");
-				tblContent.classes = ["tbl-content"];
-				forkSection.appendChild(tblContent);
-				var contentTable = document.createElement("table");
-				contentTable.cellpadding="0";
-				contentTable.cellspacing="0";
-				contentTable.border="0";
-				tblContent.appendChild(contentTable);
-				
-				var tbody = document.createElement("tbody");
-				contentTable.appendChild(tbody);
-				data[fork].forEach((peer) => {
-					var tr = document.createElement("tr");
-					tbody.appendChild(tr);
-					["IP", "Port", "CreatedAt"].forEach((col) => {
-						var td = document.createElement("td");
-						td.innerText = peer[col];
-						tr.appendChild(td);
-					})
-				});
-			});
-			setTimeout(function() {
-				if (location.hash) {
-					document.getElementById(location.hash.replace("#", "")).scrollIntoView();
+				if (fork != "") {
+					var anchorsDiv = document.getElementById("anchors");
+					var anchorLink = document.createElement("a");
+					anchorLink.href="#" + fork;
+					anchorLink.innerText = fork;
+					anchorLink.onclick = () => LoadPeers(fork);		
+					anchorsDiv.appendChild(anchorLink);		
 				}
-			}, 1);
-	    });
+			});
+			
+		});
+		
+		setTimeout(function() {
+			if (location.hash) {
+				LoadPeers(location.hash.replace("#", ""));
+			}
+		}, 1);
+		
 	};
-	$(window).on("load resize ", function() {
-	var scrollWidth = $('.tbl-content').width() - $('.tbl-content table').width();
-	$('.tbl-header').css({'padding-right':scrollWidth});
-}).resize();
 </script>
 </head>
 <body>
@@ -187,6 +130,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<a href="/"><h5>Need a faucet for a chia fork? Click here.</h5></a>
 </header>
 <div id="anchors"></div>
+<div id="peers">Click on a fork to get peers</div>
 <div id="forks"></div>
 </body>
 </html>
