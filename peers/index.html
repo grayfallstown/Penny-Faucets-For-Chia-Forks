@@ -101,7 +101,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			forks = forks.split("\n");
 			forks.sort();
 			forks.forEach((fork) => {
-				if (fork != "") {
+				if (fork != "" && fork != "CryptoShibe-CSH") {
 					var anchorsDiv = document.getElementById("anchors");
 					var anchorLink = document.createElement("a");
 					anchorLink.href="#" + fork;
